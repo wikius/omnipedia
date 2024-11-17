@@ -1,0 +1,68 @@
+[
+  {
+    "title": "ABCC11",
+    "content": "",
+    "level": 1,
+    "index": 1,
+    "sentences": []
+  },
+  {
+    "title": "Overview",
+    "content": "The ABCC11 gene encodes the ATP binding cassette subfamily C member 11 protein, which is a transmembrane transporter belonging to the ATP-binding cassette (ABC) transporter family. This protein plays a critical role in the transport of various molecules across cellular membranes, utilizing ATP hydrolysis to facilitate the efflux of substances. It is particularly significant in the context of human physiology for its involvement in the secretion of odor precursors from apocrine sweat glands, which are subsequently converted into volatile compounds responsible for body odor (Martin2010A). The ABCC11 protein is also implicated in the transport of steroid sulfates and amino-acid conjugates, contributing to broader metabolic processes (Ishikawa2013Pharmacogenetics; Bortfeld2006Human). Genetic variations in ABCC11, such as the 538G>A single nucleotide polymorphism, have been linked to phenotypic differences in earwax type and body odor, as well as potential implications in cancer prognosis and treatment (Toyoda2009Earwax; Yamada2013High).",
+    "level": 2,
+    "index": 2,
+    "sentences": [
+      "The ABCC11 gene encodes the ATP binding cassette subfamily C member 11 protein, which is a transmembrane transporter belonging to the ATP-binding cassette (ABC) transporter family.",
+      "This protein plays a critical role in the transport of various molecules across cellular membranes, utilizing ATP hydrolysis to facilitate the efflux of substances.",
+      "It is particularly significant in the context of human physiology for its involvement in the secretion of odor precursors from apocrine sweat glands, which are subsequently converted into volatile compounds responsible for body odor (Martin2010A).",
+      "The ABCC11 protein is also implicated in the transport of steroid sulfates and amino-acid conjugates, contributing to broader metabolic processes (Ishikawa2013Pharmacogenetics; Bortfeld2006Human).",
+      "Genetic variations in ABCC11, such as the 538G>A single nucleotide polymorphism, have been linked to phenotypic differences in earwax type and body odor, as well as potential implications in cancer prognosis and treatment (Toyoda2009Earwax; Yamada2013High)."
+    ]
+  },
+  {
+    "title": "Structure",
+    "content": "The ABCC11 gene encodes a protein that is part of the ATP-binding cassette (ABC) transporter family, specifically the C-class, which includes multidrug resistance-associated proteins (MRPs). The ABCC11 protein consists of 1382 amino acids and is a full ABC transporter with two ATP-binding domains and two transmembrane domains (Tammur2001Two). Structurally, it contains two ATP-binding cassettes and two core membrane-spanning domains (MSD1 and MSD2), resulting in a total of 12 transmembrane regions (Ishikawa2015Human). Unlike some other MRPs, ABCC11 lacks the additional membrane-spanning domain (MSD0) (Ishikawa2015Human).\n\nThe protein undergoes post-translational modifications, including N-linked glycosylation at Asn838 and Asn844, which is crucial for its localization in secretory cells (Ishikawa2015Human). A single nucleotide polymorphism (SNP) in the ABCC11 gene, 538G > A (Gly180Arg), affects the protein's structure and glycosylation, leading to proteasomal degradation of the variant (Ishikawa2015Human). Multiple splicing variants of ABCC11 have been identified, with one variant lacking exon 28, which affects the second ATP-binding cassette (Yabuuchi2001Multiple). These structural features and modifications play a significant role in the protein's function and localization.",
+    "level": 2,
+    "index": 3,
+    "sentences": [
+      "The ABCC11 gene encodes a protein that is part of the ATP-binding cassette (ABC) transporter family, specifically the C-class, which includes multidrug resistance-associated proteins (MRPs).",
+      "The ABCC11 protein consists of 1382 amino acids and is a full ABC transporter with two ATP-binding domains and two transmembrane domains (Tammur2001Two).",
+      "Structurally, it contains two ATP-binding cassettes and two core membrane-spanning domains (MSD1 and MSD2), resulting in a total of 12 transmembrane regions (Ishikawa2015Human).",
+      "Unlike some other MRPs, ABCC11 lacks the additional membrane-spanning domain (MSD0) (Ishikawa2015Human).",
+      "The protein undergoes post-translational modifications, including N-linked glycosylation at Asn838 and Asn844, which is crucial for its localization in secretory cells (Ishikawa2015Human).",
+      "A single nucleotide polymorphism (SNP) in the ABCC11 gene, 538G > A (Gly180Arg), affects the protein's structure and glycosylation, leading to proteasomal degradation of the variant (Ishikawa2015Human).",
+      "Multiple splicing variants of ABCC11 have been identified, with one variant lacking exon 28, which affects the second ATP-binding cassette (Yabuuchi2001Multiple).",
+      "These structural features and modifications play a significant role in the protein's function and localization."
+    ]
+  },
+  {
+    "title": "Function",
+    "content": "The ABCC11 gene encodes a protein that functions as an ATP-dependent efflux pump, primarily involved in the transport of various substances across cellular membranes. In healthy human cells, ABCC11 is expressed in apocrine sweat glands, where it plays a crucial role in the secretion of odor precursors. These precursors are transported from the apocrine glands and subsequently converted into volatile odoriferous substances by bacterial enzymes on the skin surface, contributing to human axillary odor (Martin2010A).\n\nThe protein is involved in the secretion of amino-acid conjugates and steroid sulfates, such as dehydroepiandrosterone sulfate (DHEAS), which are precursors to key body odorants (Martin2010A; Bortfeld2006Human). ABCC11 also affects the secretion of compounds from the leucine/isoleucine degradation pathway, influencing the presence of branched acids in sweat (Martin2010A).\n\nBeyond its role in sweat glands, ABCC11 is expressed in other tissues, including the brain, where it is localized in axonal membranes and may modulate neuronal excitability by mediating the efflux of neurosteroids (Bortfeld2006Human). The gene's function in transporting lipophilic anions and steroid metabolites suggests its involvement in broader metabolic and transport processes (Ishikawa2013Pharmacogenetics).",
+    "level": 2,
+    "index": 4,
+    "sentences": [
+      "The ABCC11 gene encodes a protein that functions as an ATP-dependent efflux pump, primarily involved in the transport of various substances across cellular membranes.",
+      "In healthy human cells, ABCC11 is expressed in apocrine sweat glands, where it plays a crucial role in the secretion of odor precursors.",
+      "These precursors are transported from the apocrine glands and subsequently converted into volatile odoriferous substances by bacterial enzymes on the skin surface, contributing to human axillary odor (Martin2010A).",
+      "The protein is involved in the secretion of amino-acid conjugates and steroid sulfates, such as dehydroepiandrosterone sulfate (DHEAS), which are precursors to key body odorants (Martin2010A; Bortfeld2006Human).",
+      "ABCC11 also affects the secretion of compounds from the leucine/isoleucine degradation pathway, influencing the presence of branched acids in sweat (Martin2010A).",
+      "Beyond its role in sweat glands, ABCC11 is expressed in other tissues, including the brain, where it is localized in axonal membranes and may modulate neuronal excitability by mediating the efflux of neurosteroids (Bortfeld2006Human).",
+      "The gene's function in transporting lipophilic anions and steroid metabolites suggests its involvement in broader metabolic and transport processes (Ishikawa2013Pharmacogenetics)."
+    ]
+  },
+  {
+    "title": "Clinical Significance",
+    "content": "Mutations in the ABCC11 gene, particularly the single nucleotide polymorphism (SNP) 538G>A, have significant clinical implications. This SNP determines the type of earwax, with the 538GG and GA genotypes associated with wet earwax and the 538AA genotype linked to dry earwax. The presence of the 538G allele is also associated with axillary osmidrosis, a condition characterized by excessive body odor due to increased apocrine gland secretion (Toyoda2009Earwax; Inoue2010Correlation). The 538A allele results in a loss of protein function due to its recognition as a substrate for endoplasmic-reticulum-associated degradation, leading to a dry earwax phenotype and reduced apocrine secretion (Toyoda2016Regulation).\n\nABCC11 expression levels have been linked to breast cancer, with high expression associated with aggressive tumor subtypes and lower disease-free survival rates (Yamada2013High). In non-small cell lung cancer (NSCLC), the ABCC11 SNP538 polymorphism may serve as a predictive biomarker for the efficacy of the oral 5-fluorouracil derivative drug S-1, with the A/A genotype showing increased sensitivity to treatment (Uemura2019ABCC11). These findings highlight the gene's potential role in personalized medicine and treatment strategies (Ishikawa2013Pharmacogenetics).",
+    "level": 2,
+    "index": 5,
+    "sentences": [
+      "Mutations in the ABCC11 gene, particularly the single nucleotide polymorphism (SNP) 538G>A, have significant clinical implications.",
+      "This SNP determines the type of earwax, with the 538GG and GA genotypes associated with wet earwax and the 538AA genotype linked to dry earwax.",
+      "The presence of the 538G allele is also associated with axillary osmidrosis, a condition characterized by excessive body odor due to increased apocrine gland secretion (Toyoda2009Earwax; Inoue2010Correlation).",
+      "The 538A allele results in a loss of protein function due to its recognition as a substrate for endoplasmic-reticulum-associated degradation, leading to a dry earwax phenotype and reduced apocrine secretion (Toyoda2016Regulation).",
+      "ABCC11 expression levels have been linked to breast cancer, with high expression associated with aggressive tumor subtypes and lower disease-free survival rates (Yamada2013High).",
+      "In non-small cell lung cancer (NSCLC), the ABCC11 SNP538 polymorphism may serve as a predictive biomarker for the efficacy of the oral 5-fluorouracil derivative drug S-1, with the A/A genotype showing increased sensitivity to treatment (Uemura2019ABCC11).",
+      "These findings highlight the gene's potential role in personalized medicine and treatment strategies (Ishikawa2013Pharmacogenetics)."
+    ]
+  }
+]
