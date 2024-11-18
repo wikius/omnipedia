@@ -65,6 +65,8 @@ Omnipedia aims to:
 
 1. **Stylize**:  
    Converts a style guide URL into a [requirements.json](backend/prompts/outputs/requirements.json) of structured requirements.
+   This relies on a glossary of section types derived from the style guide. It maps each requirement to the parts of an article where it applies, which could be the entire article, particular sections, or particular sentences in a section.
+
 
    ```shell
    stylize(URL) → requirements.json
@@ -90,8 +92,8 @@ Omnipedia aims to:
    }
    ```
 
-2. **Articulate**:  
-   Processes a markdown article into an [article.json](backend/prompts/outputs/article.json) of structured sections and sentences.
+3. **Articulate**:  
+   Processes a markdown article into an [article.json](backend/prompts/outputs/article.json) of structured sections and sentences, assuming a hierarchical nesting of sections.
 
    ```shell
    articulate(article.md) → article.json
@@ -117,7 +119,7 @@ Omnipedia aims to:
    ]
    ```
 
-3. **Evaluate**:  
+4. **Evaluate**:  
    Reviews the article against requirements and generates a [evaluation.json](backend/prompts/outputs/evaluation.json) of section-level and sentence-level evaluations.
 
    ```shell
@@ -151,8 +153,8 @@ Omnipedia aims to:
    }
    ```
 
-4. **Overlay**:  
-   The client then overlays the annotations on the article, highlighting non-compliant sections and sentences and providing suggestions for improvement.
+5. **Overlay**:  
+   The client then overlays the annotations on the article, highlighting non-compliant sections and sentences and providing suggestions for improvement. **[Demo site](https://omnipedia-client.pages.dev/)**
    ![Client Interface](./client.png)
 
 ---
@@ -186,7 +188,7 @@ Demonstrated applications in production environments:
 
 ## Contributors
 
-- **Samuel J. Klein** – [Public AI Network](https://github.com/metasj) and Wiki USA
+- **Samuel J. Klein** – [Public AI Network](https://github.com/metasj) and [Wiki USA](https://github.com/wikus)
 - **Michael Zargham** – [BlockScience, Inc.](https://github.com/mzargham)
 - **Sayer Tindall** – [BlockScience, Inc.](https://github.com/sayertindall)
 - **Alex Andonian** – [MIT](https://github.com/alexandonian)
