@@ -1,0 +1,394 @@
+[
+  {
+    "requirementId": "req_001",
+    "description": "Define the scope of gene/protein articles on Wikipedia.",
+    "actions": [
+      {
+        "actionType": "set_scope",
+        "parameters": {
+          "scope": "The human gene/protein (including all splice variants derived from that gene) as well as orthologs (as listed in HomoloGene) that exist in other species.",
+          "additional_info": "If there are paralogs in humans (and by extension other species), then a gene family article in addition to the gene-specific articles would be appropriate."
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:00:00Z",
+      "tags": ["scope", "article guidelines", "gene", "protein"]
+    }
+  },
+  {
+    "requirementId": "req_002",
+    "description": "Ensure article prose focuses on gene/protein information without promoting authors or studies.",
+    "actions": [
+      {
+        "actionType": "enforce_prose_focus",
+        "parameters": {
+          "focusAreas": ["structure", "function", "clinical significance"],
+          "excludeElements": ["author names", "credentials", "institutions"]
+        }
+      },
+      {
+        "actionType": "include_notable_contributions",
+        "parameters": {
+          "section": "History/Discovery",
+          "details": "Mention notable contributions along with who made the discovery in the appropriate section."
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:05:00Z",
+      "tags": ["prose guidelines", "neutrality", "content focus"]
+    }
+  },
+  {
+    "requirementId": "req_003",
+    "description": "Establish naming conventions for gene and protein articles.",
+    "actions": [
+      {
+        "actionType": "define_article_naming",
+        "parameters": {
+          "short_names": "Use the recommended UniProt protein name if relatively short.",
+          "verbose_names": "Use a widely used protein acronym or the official HUGO gene symbol, followed by '(gene)' if necessary to disambiguate.",
+          "family_naming": "Enumerate family members with a dash '-' followed by an Arabic number (e.g., 'desmoglein-1')."
+        }
+      },
+      {
+        "actionType": "include_taxon_in_viral_protein_titles",
+        "parameters": {
+          "instruction": "Include the taxon in the title for viral proteins to disambiguate common symbols."
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:10:00Z",
+      "tags": ["naming conventions", "UniProt", "HUGO", "disambiguation"]
+    }
+  },
+  {
+    "requirementId": "req_004",
+    "description": "Implement gene nomenclature standards according to HUGO.",
+    "actions": [
+      {
+        "actionType": "standardize_gene_nomenclature",
+        "parameters": {
+          "abbreviations": "Use HUGO-approved abbreviations in italic font.",
+          "human_genes": "Write in all capitals (e.g., ALDOA, INS).",
+          "orthologs": "Capitalize only the initial letter (e.g., mouse Aldoa, bovine Ins).",
+          "recommended_usages": [
+            "the ALDOA gene is regulated...",
+            "the rat gene for Aldoa is regulated...",
+            "ALDOA is regulated..."
+          ],
+          "disallowed_usages": ["the gene ALDOA is regulated"]
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:15:00Z",
+      "tags": ["gene nomenclature", "HUGO", "formatting"]
+    }
+  },
+  {
+    "requirementId": "req_005",
+    "description": "Standardize the use of images and diagrams in articles.",
+    "actions": [
+      {
+        "actionType": "set_diagram_format",
+        "parameters": {
+          "standard_format": true,
+          "suggest_expansions_if_insufficient": true,
+          "reference": "Wikipedia:WikiProject Molecular and Cellular Biology/Diagram guide"
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:20:00Z",
+      "tags": ["images", "diagrams", "standardization"]
+    }
+  },
+  {
+    "requirementId": "req_006",
+    "description": "Include appropriate infoboxes in gene/protein articles.",
+    "actions": [
+      {
+        "actionType": "add_infobox",
+        "parameters": {
+          "templates": [
+            {
+              "template": "Infobox GNF protein",
+              "description": "For genes/proteins with a human ortholog (articles created as part of the Gene Wiki project).",
+              "exampleArticle": "Reelin",
+              "fillingTool": "GeneWikiGenerator"
+            },
+            {
+              "template": "Infobox protein",
+              "description": "Smaller box appropriate for protein family articles where more than one protein is discussed (e.g., paralogs).",
+              "exampleArticle": "Estrogen receptor",
+              "fillingTool": "Wikipedia template filling"
+            },
+            {
+              "template": "Infobox nonhuman protein",
+              "description": "For proteins without a human ortholog.",
+              "exampleArticle": "Uterine serpin"
+            },
+            {
+              "template": "Infobox protein family",
+              "description": "For protein families listed in Pfam.",
+              "exampleArticle": "T-box"
+            },
+            {
+              "template": "Infobox rfam",
+              "description": "For RNA families listed in Rfam.",
+              "exampleArticle": "U1 spliceosomal RNA"
+            },
+            {
+              "template": "Infobox enzyme",
+              "description": "For enzymes based on EC number (refers to the reaction catalyzed rather than the enzyme itself).",
+              "exampleArticle": "Alcohol dehydrogenase"
+            }
+          ],
+          "additional_conditions": "If there is only one human paralog assigned to an EC number or Pfam family, include the corresponding enzyme or protein family infobox."
+        }
+      },
+      {
+        "actionType": "manage_multiple_infoboxes",
+        "parameters": {
+          "strategy": "Place less useful infoboxes in a section at the end, laid side-by-side with a table. Avoid collapsing or horizontally scrolling the table."
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:25:00Z",
+      "tags": ["infoboxes", "templates", "article formatting"]
+    }
+  },
+  {
+    "requirementId": "req_007",
+    "description": "Define the structure and required sections of gene/protein articles.",
+    "actions": [
+      {
+        "actionType": "set_article_sections",
+        "parameters": {
+          "required_sections": [
+            {
+              "name": "Lead",
+              "description": "Introduce the article's scope with a specific sentence structure.",
+              "details": "First sentence should be in the format: '<Recommended UniProt name> is a protein that in humans is encoded by the <approved HUGO gene symbol> gene.'"
+            },
+            {
+              "name": "Gene",
+              "description": "Provide specific information about the gene without unnecessary repetition.",
+              "details": "Include chromosome location, regulation details, and only notable information not covered in the infobox."
+            },
+            {
+              "name": "Protein",
+              "description": "Provide specific information about the protein.",
+              "details": "Include splice variants, post-translational modifications, and only notable information not covered in the infobox."
+            },
+            {
+              "name": "Function",
+              "description": "Describe the function of the transcribed protein."
+            },
+            {
+              "name": "Clinical significance",
+              "description": "List diseases or conditions resulting from gene mutations or protein deficiencies/excess."
+            },
+            {
+              "name": "History/Discovery",
+              "description": "Detail key discoveries and contributors without promoting research groups.",
+              "details": "Appropriate to list names of those who made key discoveries (e.g., cloning the gene, determining its function, linking it to a disease)."
+            }
+          ],
+          "optional_sections": [
+            {
+              "name": "Species, tissue, and subcellular distribution",
+              "description": "Describe species expression, tissue specificity, and subcellular localization."
+            },
+            {
+              "name": "Interactions",
+              "description": "List proteins that the subject protein is known to interact with."
+            }
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:30:00Z",
+      "tags": ["article structure", "sections", "content guidelines"]
+    }
+  },
+  {
+    "requirementId": "req_008",
+    "description": "Implement citation guidelines for gene/protein articles.",
+    "actions": [
+      {
+        "actionType": "standardize_citations",
+        "parameters": {
+          "inline_citations": true,
+          "citation_formats": [
+            "{{Cite journal}}",
+            "{{Cite book}}",
+            "{{Cite web}}",
+            "{{Cite press release}}",
+            "{{Cite news}}"
+          ],
+          "consistency": "Citation format should be consistent within the article.",
+          "linking": {
+            "pmid": "Add PMID links for PubMed abstracts.",
+            "doi": "Use {{doi}} template for DOIs.",
+            "url": "Link to free full text if available; prefer HTML over PDF."
+          },
+          "avoid_general_references": true,
+          "reference_management_tools": [
+            "Diberri's template-filling web site",
+            "Universal reference formatter",
+            "Wouterstomp's bookmarklet"
+          ],
+          "retrieval_dates": {
+            "convenience_links": "Do not add 'Retrieved on' dates for convenience links to online editions of paper journals.",
+            "other_websources": "Add 'Retrieved on' dates for other web sources."
+          }
+        }
+      },
+      {
+        "actionType": "enforce_citation_density",
+        "parameters": {
+          "inline_citation_requirement": "Articles must be relatively dense with inline citations using <ref> tags or parenthetical citations.",
+          "avoid_general_references": true
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:35:00Z",
+      "tags": ["citations", "references", "source guidelines"]
+    }
+  },
+  {
+    "requirementId": "req_009",
+    "description": "Ensure availability of navigation elements for users.",
+    "actions": [
+      {
+        "actionType": "include_navigation_elements",
+        "parameters": {
+          "elements": [
+            "Appropriate navigation boxes for related proteins (e.g., Cytoskeletal Proteins, Ion channels, Transcription factors, Transmembrane receptors)"
+          ]
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:40:00Z",
+      "tags": ["navigation", "user interface", "accessibility"]
+    }
+  },
+  {
+    "requirementId": "req_010",
+    "description": "Assign appropriate categories to gene/protein articles.",
+    "actions": [
+      {
+        "actionType": "assign_categories",
+        "parameters": {
+          "mandatory_categories": ["Proteins"],
+          "optional_categories": [
+            "Enzymes by function",
+            "Genes by human chromosome"
+          ],
+          "instructions": "Each article must be added to at least one relevant category appropriate to its content."
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:45:00Z",
+      "tags": ["categories", "taxonomy", "article classification"]
+    }
+  },
+  {
+    "requirementId": "req_011",
+    "description": "Provide guidelines for handling EC enzyme descriptions and distinctions.",
+    "actions": [
+      {
+        "actionType": "clarify_EC_description",
+        "parameters": {
+          "instruction": "Ensure that EC numbers describe reactions, not protein families.",
+          "tools": ["ExPASy", "BioCyc for protein comparison in InterPro"],
+          "note": "Maintain distinction even if sources describe EC enzymes as belonging to certain families or mechanisms."
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:50:00Z",
+      "tags": ["EC enzymes", "protein families", "clarification"]
+    }
+  },
+  {
+    "requirementId": "req_012",
+    "description": "Ensure proper linking of Wikipedia articles to Wikidata items.",
+    "actions": [
+      {
+        "actionType": "link_to_wikidata",
+        "parameters": {
+          "criteria": "Link to the Wikidata item of the entity first mentioned in the lead section.",
+          "example": "If the first sentence is 'Steroid 21-hydroxylase is a protein that in humans is encoded by the CYP21A2 gene.', link to the steroid 21-hydroxylase protein Wikidata item."
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T12:55:00Z",
+      "tags": ["Wikidata", "linking", "metadata"]
+    }
+  },
+  {
+    "requirementId": "req_013",
+    "description": "Provide guidelines for using external citation tools.",
+    "actions": [
+      {
+        "actionType": "recommend_citation_tools",
+        "parameters": {
+          "tools": [
+            "Diberri's template-filling web site",
+            "Universal reference formatter",
+            "Wouterstomp's bookmarklet"
+          ],
+          "usage_instructions": "Ensure all fields are correctly populated when using automated tools."
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T13:00:00Z",
+      "tags": ["citation tools", "external tools", "reference management"]
+    }
+  },
+  {
+    "requirementId": "req_014",
+    "description": "Implement shortcut references for efficient navigation.",
+    "actions": [
+      {
+        "actionType": "define_shortcuts",
+        "parameters": {
+          "shortcuts": {
+            "WP:MCBMOS": "Main guidelines for Molecular Biology articles.",
+            "MOS:MCB": "Style guide specific to Molecular Biology."
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "createdBy": "user123",
+      "createdAt": "2024-11-08T13:05:00Z",
+      "tags": ["shortcuts", "references", "navigation aids"]
+    }
+  }
+]

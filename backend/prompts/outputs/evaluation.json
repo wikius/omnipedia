@@ -1,0 +1,1326 @@
+{
+  "sections": [
+    {
+      "index": 0,
+      "title": "Overview",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "The ABCC11 gene encodes the ATP binding cassette subfamily C member 11 protein, which is a transmembrane transporter belonging to the ATP-binding cassette (ABC) transporter family.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it defines the gene and protein without mentioning orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement to include them.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene and protein names.",
+              "reasoning": "Gene and protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' and protein name are not in italics.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'ABC' and 'MRPs' are used.",
+              "reasoning": "Uses abbreviations but also uses full names without abbreviations consistently.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'ABC' and 'MRPs' but also full names.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 1,
+          "sentence": "This protein plays a critical role in the transport of various molecules across cellular membranes, utilizing ATP hydrolysis to facilitate the efflux of substances.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R30",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it describes the protein's function.",
+              "reasoning": "Function of the transcribed protein is described.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Describes role in transport across membranes.",
+              "reasoning_detail": "Fully complies with function description requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "It is particularly significant in the context of human physiology for its involvement in the secretion of odor precursors from apocrine sweat glands, which are subsequently converted into volatile compounds responsible for body odor (Martin2010A).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R30",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it further describes the protein's function.",
+              "reasoning": "Provides more details on protein function.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Describes involvement in secretion of odor precursors.",
+              "reasoning_detail": "Fully complies with function description requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "The ABCC11 protein is also implicated in the transport of steroid sulfates and amino-acid conjugates, contributing to broader metabolic processes (Ishikawa2013Pharmacogenetics; Bortfeld2006Human).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the protein but not orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the gene/protein.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R30",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it describes protein function.",
+              "reasoning": "Function is described.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Describes transport of steroid sulfates and amino-acid conjugates.",
+              "reasoning_detail": "Fully complies with function description requirement."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names."
+        },
+        {
+          "index": 4,
+          "sentence": "Genetic variations in ABCC11, such as the 538G>A single nucleotide polymorphism, have been linked to phenotypic differences in earwax type and body odor, as well as potential implications in cancer prognosis and treatment (Toyoda2009Earwax; Yamada2013High).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene name 'ABCC11' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it lists conditions related to gene mutations.",
+              "reasoning": "Lists cancer prognosis and treatment as related conditions.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Mentions cancer prognosis and treatment.",
+              "reasoning_detail": "Fully complies with listing related conditions."
+            }
+          ],
+          "meta_notes": "Consider italicizing gene/protein names for full compliance."
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section defines the gene and protein but does not mention orthologs.",
+          "reasoning": "Orthologs are not included in the section, violating the requirement to include them.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "Orthologs are not mentioned in the 'Overview' section.",
+          "reasoning_detail": "Fails to include orthologs as required."
+        },
+        {
+          "requirement_id": "R5",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section includes gene/protein names without italics.",
+          "reasoning": "Gene and protein names are not italicized.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "Gene and protein names are not italicized in the section.",
+          "reasoning_detail": "Non-compliance with italics requirement."
+        },
+        {
+          "requirement_id": "R7",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because it mentions the human gene name.",
+          "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "'ABCC11' is in capitals as required.",
+          "reasoning_detail": "Fully complies with capitalization requirements."
+        }
+      ],
+      "meta_notes": "The 'Overview' section defines the gene and protein but does not include orthologs and lacks italics for gene/protein names. Consider including orthologs and applying italics to gene and protein names."
+    },
+    {
+      "index": 1,
+      "title": "Structure",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "The ABCC11 gene encodes a protein that is part of the ATP-binding cassette (ABC) transporter family, specifically the C-class, which includes multidrug resistance-associated proteins (MRPs).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it defines the gene and protein without mentioning orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement to include them.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene and protein names.",
+              "reasoning": "Gene and protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' and protein name are not in italics.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'ABC' and 'MRPs' are used.",
+              "reasoning": "Uses abbreviations but also uses full names without abbreviations consistently.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'ABC' and 'MRPs' but also full names.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 1,
+          "sentence": "The ABCC11 protein consists of 1382 amino acids and is a full ABC transporter with two ATP-binding domains and two transmembrane domains (Tammur2001Two).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the protein without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the gene/protein names.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'ABC' are used.",
+              "reasoning": "Uses abbreviation 'ABC' but also full names.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'ABC' but also full protein names without consistent abbreviation.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 2,
+          "sentence": "Structurally, it contains two ATP-binding cassettes and two core membrane-spanning domains (MSD1 and MSD2), resulting in a total of 12 transmembrane regions (Ishikawa2015Human).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it describes structural features without mentioning orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'MSD1' and 'MSD2' are used.",
+              "reasoning": "Uses abbreviations but also full names without consistent abbreviation.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'MSD1' and 'MSD2' but also full protein names without consistent abbreviation.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 3,
+          "sentence": "Unlike some other MRPs, ABCC11 lacks the additional membrane-spanning domain (MSD0) (Ishikawa2015Human).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the protein without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'MRPs' and 'MSD0' are used.",
+              "reasoning": "Uses abbreviations but also full names without consistent abbreviation.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'MRPs' and 'MSD0' but also full protein names without consistent abbreviation.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 4,
+          "sentence": "The protein undergoes post-translational modifications, including N-linked glycosylation at Asn838 and Asn844, which is crucial for its localization in secretory cells (Ishikawa2015Human).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the protein without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'N-linked glycosylation' are used.",
+              "reasoning": "Uses abbreviations but also full names without consistent abbreviation.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'N-linked glycosylation' but also full protein names without consistent abbreviation.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 5,
+          "sentence": "A single nucleotide polymorphism (SNP) in the ABCC11 gene, 538G > A (Gly180Arg), affects the protein's structure and glycosylation, leading to proteasomal degradation of the variant (Ishikawa2015Human).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the gene without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'SNP' are used.",
+              "reasoning": "Uses abbreviation 'SNP' but also full names without consistent abbreviation.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'SNP' but also full gene names without consistent abbreviation.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 6,
+          "sentence": "Multiple splicing variants of ABCC11 have been identified, with one variant lacking exon 28, which affects the second ATP-binding cassette (Yabuuchi2001Multiple).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the gene without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'SNP' are used.",
+              "reasoning": "Uses abbreviations but also full names without consistent abbreviation.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'SNP' but also full gene names without consistent abbreviation.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 7,
+          "sentence": "These structural features and modifications play a significant role in the protein's function and localization.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R30",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it summarizes the importance of structural features.",
+              "reasoning": "Function and localization are described.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Describes role in function and localization.",
+              "reasoning_detail": "Fully complies with function description requirement."
+            }
+          ],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section defines the gene and protein but does not mention orthologs.",
+          "reasoning": "Orthologs are not included in the section, violating the requirement to include them.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "Orthologs are not mentioned in the 'Structure' section.",
+          "reasoning_detail": "Fails to include orthologs as required."
+        },
+        {
+          "requirement_id": "R5",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section includes gene/protein names without italics.",
+          "reasoning": "Gene and protein names are not italicized.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "Gene and protein names are not italicized in the section.",
+          "reasoning_detail": "Non-compliance with italics requirement."
+        },
+        {
+          "requirement_id": "R7",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because it mentions the human gene name.",
+          "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "'ABCC11' is in capitals as required.",
+          "reasoning_detail": "Fully complies with capitalization requirements."
+        }
+      ],
+      "meta_notes": "The 'Structure' section defines the gene and protein but does not include orthologs and lacks italics for gene/protein names. Consider including orthologs and applying italics to gene and protein names."
+    },
+    {
+      "index": 2,
+      "title": "Function",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "The ABCC11 gene encodes a protein that functions as an ATP-dependent efflux pump, primarily involved in the transport of various substances across cellular membranes.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the gene without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene and protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'ATP' are used.",
+              "reasoning": "Uses abbreviation 'ATP' but also full names without consistent abbreviation.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'ATP' but also full protein names without consistent abbreviation.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 1,
+          "sentence": "In healthy human cells, ABCC11 is expressed in apocrine sweat glands, where it plays a crucial role in the secretion of odor precursors.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the protein without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'ABCC11' are used.",
+              "reasoning": "Uses abbreviation 'ABCC11' consistently.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Uses abbreviation 'ABCC11' consistently without unnecessary full names.",
+              "reasoning_detail": "Fully complies with abbreviation usage."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 2,
+          "sentence": "These precursors are transported from the apocrine glands and subsequently converted into volatile odoriferous substances by bacterial enzymes on the skin surface, contributing to human axillary odor (Martin2010A).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R30",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it describes the protein's function in detail.",
+              "reasoning": "Provides detailed function related to odor production.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Describes conversion of precursors to odoriferous substances.",
+              "reasoning_detail": "Fully complies with function description requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "The protein is involved in the secretion of amino-acid conjugates and steroid sulfates, such as dehydroepiandrosterone sulfate (DHEAS), which are precursors to key body odorants (Martin2010A; Bortfeld2006Human).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the protein without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'DHEAS' are used.",
+              "reasoning": "Uses abbreviation 'DHEAS' but also full names without consistent abbreviation.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'DHEAS' but also full protein names without consistent abbreviation.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 4,
+          "sentence": "ABCC11 also affects the secretion of compounds from the leucine/isoleucine degradation pathway, influencing the presence of branched acids in sweat (Martin2010A).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the protein without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'ABCC11' are used.",
+              "reasoning": "Uses abbreviation 'ABCC11' consistently.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Uses abbreviation 'ABCC11' consistently without unnecessary full names.",
+              "reasoning_detail": "Fully complies with abbreviation usage."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 5,
+          "sentence": "Beyond its role in sweat glands, ABCC11 is expressed in other tissues, including the brain, where it is localized in axonal membranes and may modulate neuronal excitability by mediating the efflux of neurosteroids (Bortfeld2006Human).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the protein without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene/protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'ABCC11' are used.",
+              "reasoning": "Uses abbreviation 'ABCC11' consistently.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Uses abbreviation 'ABCC11' consistently without unnecessary full names.",
+              "reasoning_detail": "Fully complies with abbreviation usage."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 6,
+          "sentence": "The gene's function in transporting lipophilic anions and steroid metabolites suggests its involvement in broader metabolic and transport processes (Ishikawa2013Pharmacogenetics).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R30",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it describes the gene's function.",
+              "reasoning": "Function is described in broader metabolic contexts.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Describes involvement in broader metabolic and transport processes.",
+              "reasoning_detail": "Fully complies with function description requirement."
+            }
+          ],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section defines the gene and protein but does not mention orthologs.",
+          "reasoning": "Orthologs are not included in the section, violating the requirement to include them.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "Orthologs are not mentioned in the 'Function' section.",
+          "reasoning_detail": "Fails to include orthologs as required."
+        },
+        {
+          "requirement_id": "R5",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section includes gene/protein names without italics.",
+          "reasoning": "Gene and protein names are not italicized.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "Gene and protein names are not italicized in the section.",
+          "reasoning_detail": "Non-compliance with italics requirement."
+        },
+        {
+          "requirement_id": "R7",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because it mentions the human gene name.",
+          "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "'ABCC11' is in capitals as required.",
+          "reasoning_detail": "Fully complies with capitalization requirements."
+        }
+      ],
+      "meta_notes": "The 'Function' section defines the gene and protein but does not include orthologs and lacks italics for gene/protein names. Consider including orthologs and applying italics to gene and protein names."
+    },
+    {
+      "index": 3,
+      "title": "Clinical Significance",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "Mutations in the ABCC11 gene, particularly the single nucleotide polymorphism (SNP) 538G>A, have significant clinical implications.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the gene without orthologs.",
+              "reasoning": "Orthologs are not mentioned, violating the requirement.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Orthologs are not mentioned in the sentence.",
+              "reasoning_detail": "Fails to include orthologs as required."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions gene/protein names.",
+              "reasoning": "Gene and protein names are not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "Gene name 'ABCC11' is not italicized.",
+              "reasoning_detail": "Non-compliance with italics requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because abbreviations like 'SNP' are used.",
+              "reasoning": "Uses abbreviation 'SNP' but also full names without consistent abbreviation.",
+              "score": 0.75,
+              "confidence": 0.85,
+              "evidence": "Uses 'SNP' but also full gene names without consistent abbreviation.",
+              "reasoning_detail": "Partial adherence; abbreviations used but not consistently."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it mentions the human gene name.",
+              "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "'ABCC11' is in capitals as required.",
+              "reasoning_detail": "Fully complies with capitalization requirements."
+            }
+          ],
+          "meta_notes": "Consider including orthologs and italicizing gene/protein names for full compliance."
+        },
+        {
+          "index": 1,
+          "sentence": "This SNP determines the type of earwax, with the 538GG and GA genotypes associated with wet earwax and the 538AA genotype linked to dry earwax.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R30",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it describes clinical implications of mutations.",
+              "reasoning": "Describes how SNP affects earwax type.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Links SNP to earwax types.",
+              "reasoning_detail": "Fully complies with clinical significance requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "The presence of the 538G allele is also associated with axillary osmidrosis, a condition characterized by excessive body odor due to increased apocrine gland secretion (Toyoda2009Earwax; Inoue2010Correlation).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it lists conditions related to gene mutations.",
+              "reasoning": "Lists axillary osmidrosis as a related condition.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Mentions axillary osmidrosis as a related condition.",
+              "reasoning_detail": "Fully complies with listing related conditions."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "The 538A allele results in a loss of protein function due to its recognition as a substrate for endoplasmic-reticulum-associated degradation, leading to a dry earwax phenotype and reduced apocrine secretion (Toyoda2016Regulation).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it lists conditions related to gene mutations.",
+              "reasoning": "Describes dry earwax phenotype and reduced apocrine secretion.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Mentions dry earwax phenotype and reduced apocrine secretion.",
+              "reasoning_detail": "Fully complies with listing related conditions."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "ABCC11 expression levels have been linked to breast cancer, with high expression associated with aggressive tumor subtypes and lower disease-free survival rates (Yamada2013High).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it lists conditions related to gene expression.",
+              "reasoning": "Links ABCC11 expression to breast cancer prognosis.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Associates ABCC11 expression with aggressive tumor subtypes and survival rates.",
+              "reasoning_detail": "Fully complies with listing related conditions."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "In non-small cell lung cancer (NSCLC), the ABCC11 SNP538 polymorphism may serve as a predictive biomarker for the efficacy of the oral 5-fluorouracil derivative drug S-1, with the A/A genotype showing increased sensitivity to treatment (Uemura2019ABCC11).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it lists conditions related to gene mutations.",
+              "reasoning": "Describes SNP538 as a predictive biomarker in NSCLC treatment.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Links SNP538 polymorphism to treatment efficacy in NSCLC.",
+              "reasoning_detail": "Fully complies with listing related conditions."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 6,
+          "sentence": "These findings highlight the gene's potential role in personalized medicine and treatment strategies (Ishikawa2013Pharmacogenetics).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it summarizes the clinical implications.",
+              "reasoning": "Highlights role in personalized medicine.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Mentions personalized medicine and treatment strategies.",
+              "reasoning_detail": "Fully complies with clinical significance requirement."
+            }
+          ],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section discusses clinical implications without mentioning orthologs.",
+          "reasoning": "Orthologs are not included in the section, violating the requirement to include them.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "Orthologs are not mentioned in the 'Clinical Significance' section.",
+          "reasoning_detail": "Fails to include orthologs as required."
+        },
+        {
+          "requirement_id": "R5",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section includes gene/protein names without italics.",
+          "reasoning": "Gene and protein names are not italicized.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "Gene and protein names are not italicized in the section.",
+          "reasoning_detail": "Non-compliance with italics requirement."
+        },
+        {
+          "requirement_id": "R7",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because it mentions the human gene name.",
+          "reasoning": "Human gene name 'ABCC11' is correctly written in capitals.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "'ABCC11' is in capitals as required.",
+          "reasoning_detail": "Fully complies with capitalization requirements."
+        }
+      ],
+      "meta_notes": "The 'Clinical Significance' section defines the gene and protein but does not include orthologs and lacks italics for gene/protein names. Consider including orthologs and applying italics to gene and protein names."
+    }
+  ],
+  "article_evaluation": {
+    "requirement_evaluations": [
+      {
+        "requirement_id": "R1",
+        "requirement_category": "Content",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Applicable because the entire article must include human genes/proteins and orthologs.",
+        "reasoning": "Orthologs are not mentioned in any of the evaluated sections, violating the requirement to include them.",
+        "score": 0.0,
+        "confidence": 0.95,
+        "evidence": "Orthologs are not mentioned in any sections of the article.",
+        "reasoning_detail": "Fails to include orthologs as required."
+      },
+      {
+        "requirement_id": "R5",
+        "requirement_category": "Language Usage",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Applicable because the entire article includes gene/protein names without italics.",
+        "reasoning": "Gene and protein names are consistently not italicized across all sections.",
+        "score": 0.0,
+        "confidence": 0.95,
+        "evidence": "Gene and protein names are not italicized in any sections.",
+        "reasoning_detail": "Non-compliance with italics requirement throughout the article."
+      },
+      {
+        "requirement_id": "R7",
+        "requirement_category": "Language Usage",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Applicable because the entire article mentions the human gene name in capitals.",
+        "reasoning": "Human gene name 'ABCC11' is correctly written in capitals throughout the article.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "'ABCC11' is consistently in capitals as required.",
+        "reasoning_detail": "Fully complies with capitalization requirements."
+      },
+      {
+        "requirement_id": "R25",
+        "requirement_category": "Structure",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Applicable because the first sentence of the lead should define the article's scope.",
+        "reasoning": "The first sentence of the 'Overview' section defines the gene and protein but fails to mention orthologs.",
+        "score": 0.75,
+        "confidence": 0.9,
+        "evidence": "Defines the gene and protein but omits orthologs.",
+        "reasoning_detail": "Partial compliance; defines scope but lacks orthologs."
+      },
+      {
+        "requirement_id": "R30",
+        "requirement_category": "Content",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Applicable because the entire article must describe the function of the transcribed protein.",
+        "reasoning": "Function is described in multiple sections.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Function is thoroughly described in the 'Overview', 'Structure', and 'Function' sections.",
+        "reasoning_detail": "Fully complies with function description requirement."
+      },
+      {
+        "requirement_id": "R32",
+        "requirement_category": "Content",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Applicable because the entire article must list diseases or conditions related to gene/protein mutations or imbalances.",
+        "reasoning": "Lists conditions such as axillary osmidrosis, breast cancer, and NSCLC treatment implications.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Mentions axillary osmidrosis, breast cancer, and NSCLC as related conditions.",
+        "reasoning_detail": "Fully complies with listing related conditions."
+      },
+      {
+        "requirement_id": "R34",
+        "requirement_category": "Structure",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Applicable because the article should link to a Wikidata item of the entity mentioned first in the lead.",
+        "reasoning": "No Wikidata linkage is present in the article.",
+        "score": 0.0,
+        "confidence": 0.95,
+        "evidence": "No link to a Wikidata item of ABCC11 is present.",
+        "reasoning_detail": "Fails to link to the appropriate Wikidata item."
+      }
+    ],
+    "meta_notes": "Overall, the article lacks inclusion of orthologs and does not italicize gene/protein names, which are imperative standards. Additionally, there is no linkage to a Wikidata item. These issues significantly reduce the overall compliance score. To improve, include orthologs, apply italics to gene and protein names, and add a link to the relevant Wikidata item."
+  }
+}

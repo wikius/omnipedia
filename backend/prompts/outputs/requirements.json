@@ -1,0 +1,374 @@
+{
+  "groups": [
+    {
+      "description": "Gene nomenclature guidelines",
+      "category": "Content",
+      "requirements": [
+        {
+          "id": "1",
+          "description": "**Must** include human genes/proteins and orthologs in other species within the scope of the article.",
+          "reference": "The scope of a gene/protein article is the human gene/protein (including all splice variants derived from that gene) as well as orthologs (as listed in HomoloGene) that exist in other species.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Entire article",
+          "when": "Always",
+          "level": "article-level"
+        },
+        {
+          "id": "2",
+          "description": "Consider creating a gene family article if there are paralogs in humans.",
+          "reference": "If there are paralogs in humans (and by extension other species), then a gene family article in addition to the gene specific articles (see for example dopamine receptor) would be appropriate.",
+          "category": "Content",
+          "classification": "Contextual Considerations",
+          "where": "Entire article",
+          "when": "When there are paralogs in humans",
+          "level": "article-level"
+        },
+        {
+          "id": "3",
+          "description": "**Must** avoid hyping a study by listing authors' qualifications; focus on the study's findings.",
+          "reference": "In general, do not hype a study by listing the names, credentials, institutions, or other 'qualifications' of their authors. Wikipedia is not a press release.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Article prose",
+          "when": "Always",
+          "level": "sentence-level"
+        },
+        {
+          "id": "4",
+          "description": "Notable contributions and their discoverers should be mentioned in the discovery/history section.",
+          "reference": "Particularly notable contributions along with who made the discovery however should be mentioned in the discovery/history section.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Discovery/history section",
+          "when": "When notable contributions exist",
+          "level": "section-level"
+        },
+        {
+          "id": "5",
+          "description": "Use italics for gene abbreviations and full names.",
+          "reference": "The abbreviations of genes are according to HUGO Gene Nomenclature Committee and written in ''italic'' font style (the full names are also written in ''italic'').",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Article prose",
+          "when": "When using gene names or abbreviations",
+          "level": "sentence-level"
+        },
+        {
+          "id": "6",
+          "description": "Use abbreviations instead of full gene names.",
+          "reference": "It is recommended that abbreviations instead of the full name are used.",
+          "category": "Naming",
+          "classification": "Best Practices",
+          "where": "Article prose",
+          "when": "When mentioning gene names",
+          "level": "sentence-level"
+        },
+        {
+          "id": "7",
+          "description": "Write human gene names in capitals, while for orthologs only the initial letter is capitalized.",
+          "reference": "Human gene names are written in capitals, for example ''ALDOA'', ''INS'', etc. For orthologs of human genes in other species, only the initial letter is capitalised, for example mouse ''Aldoa'', bovine ''Ins'', etc.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Article prose",
+          "when": "When mentioning gene names of humans and orthologs",
+          "level": "sentence-level"
+        },
+        {
+          "id": "8",
+          "description": "Recommended and non-recommended usages of gene symbols for clear expression.",
+          "reference": "The following usages of gene symbols are recommended: \"the ALDOA gene is regulated...\", \"the rat gene for Aldoa is regulated...\" or \"''ALDOA'' is regulated...\", while the following is not recommended: \"the gene ''ALDOA'' is regulated\" since it is redundant.",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Article prose",
+          "when": "When mentioning regulation of genes",
+          "level": "sentence-level"
+        }
+      ]
+    },
+    {
+      "description": "Naming conventions for protein articles within families or based on taxon",
+      "category": "Naming",
+      "requirements": [
+        {
+          "id": "9",
+          "description": "Use the recommended UniProt protein name if it is relatively short as the article name.",
+          "reference": "If relatively short, the recommended UniProt protein name should be used as the article name.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Article title",
+          "when": "When the UniProt name is short",
+          "level": "article-level"
+        },
+        {
+          "id": "10",
+          "description": "Use a widely used protein acronym or the official HUGO gene symbol for verbose protein names, followed by \"(gene)\" for disambiguation if necessary.",
+          "reference": "If the protein name is verbose, either a widely used protein acronym or the official HUGO gene symbol, followed by \"(gene)\" if necessary to disambiguate.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Article title",
+          "when": "When the protein name is verbose",
+          "level": "article-level"
+        },
+        {
+          "id": "11",
+          "description": "Enumerate protein family members with a dash followed by an Arabic number.",
+          "reference": "When naming proteins which can be grouped into a family based on homology or according to a notion of shared function (like the interleukins), the different members should be enumerated with a dash \"-\" followed by an Arabic number, e.g. \"desmoglein-1\", \"desmoglein-2\", etc.",
+          "category": "Naming",
+          "classification": "Best Practices",
+          "where": "Protein family article titles",
+          "when": "When proteins are grouped into a family",
+          "level": "article-level"
+        },
+        {
+          "id": "12",
+          "description": "Include taxa in the title for viral protein articles.",
+          "reference": "If the article is about a viral protein, it is recommended to include the taxon in the title, as \"nonstructual protein 2\" and \"viral protease\" can mean many things.",
+          "category": "Naming",
+          "classification": "Best Practices",
+          "where": "Article title",
+          "when": "When the article is about a viral protein",
+          "level": "article-level"
+        }
+      ]
+    },
+    {
+      "description": "Diagram formatting guidelines",
+      "category": "Formatting",
+      "requirements": [
+        {
+          "id": "13",
+          "description": "Diagrams should adhere to a standard format whenever possible.",
+          "reference": "Where possible, diagrams should keep to a standard format.",
+          "category": "Formatting",
+          "classification": "Imperative Standards",
+          "where": "Diagrams",
+          "when": "Always when including diagrams in an article",
+          "level": "article-level"
+        },
+        {
+          "id": "14",
+          "description": "Suggest expansions to the standardized formatting if the diagram guide is insufficient.",
+          "reference": "If the diagram guide does not give sufficient guidance on the style for the images in an article, consider suggesting expansions to the standardized formatting.",
+          "category": "Formatting",
+          "classification": "Best Practices",
+          "where": "Diagrams",
+          "when": "When the current diagram guide is insufficient",
+          "level": "article-level"
+        }
+      ]
+    },
+    {
+      "description": "Infobox usage guidelines for gene, protein, and related articles",
+      "category": "Infoboxes",
+      "requirements": [
+        {
+          "id": "15",
+          "description": "Include Infobox GNF protein for genes/proteins with a human genome ortholog.",
+          "reference": "One or more of the following infoboxes as appropriate should be included at the top of each article: {{tl|Infobox GNF protein}} for genes/proteins for which an ortholog is present within the human genome.",
+          "category": "Infoboxes",
+          "classification": "Imperative Standards",
+          "where": "Top of article",
+          "when": "When a gene/protein has a human genome ortholog",
+          "level": "article-level"
+        },
+        {
+          "id": "16",
+          "description": "Include Infobox protein for protein family articles discussing multiple proteins.",
+          "reference": "{{tl|Infobox protein}} smaller box appropriate for protein family articles where more than one protein is discussed in the same article (e.g., [[Homology_(biology)#Paralogy|paralogs]]).",
+          "category": "Infoboxes",
+          "classification": "Imperative Standards",
+          "where": "Top of article",
+          "when": "When discussing multiple proteins in a family article",
+          "level": "article-level"
+        },
+        {
+          "id": "17",
+          "description": "Include Infobox nonhuman protein for proteins without a human ortholog.",
+          "reference": "{{tl|Infobox nonhuman protein}} for proteins without a human ortholog.",
+          "category": "Infoboxes",
+          "classification": "Imperative Standards",
+          "where": "Top of article",
+          "when": "When a protein does not have a human ortholog",
+          "level": "article-level"
+        },
+        {
+          "id": "18",
+          "description": "Include Infobox protein family for protein families listed in Pfam.",
+          "reference": "{{tl|Infobox protein family}} for protein families listed in Pfam.",
+          "category": "Infoboxes",
+          "classification": "Imperative Standards",
+          "where": "Top of article",
+          "when": "When discussing protein families listed in Pfam",
+          "level": "article-level"
+        },
+        {
+          "id": "19",
+          "description": "Include Infobox rfam for RNA families listed in Rfam.",
+          "reference": "{{tl|Infobox rfam}} for RNA families listed in Rfam.",
+          "category": "Infoboxes",
+          "classification": "Imperative Standards",
+          "where": "Top of article",
+          "when": "When discussing RNA families listed in Rfam",
+          "level": "article-level"
+        },
+        {
+          "id": "20",
+          "description": "Include Infobox enzyme for enzymes based on EC number.",
+          "reference": "{{tl|Infobox enzyme}} for enzymes based on EC number, keeping in mind that EC describes the reaction, not a protein family.",
+          "category": "Infoboxes",
+          "classification": "Imperative Standards",
+          "where": "Top of article",
+          "when": "When discussing enzymes categorized by EC number",
+          "level": "article-level"
+        },
+        {
+          "id": "21",
+          "description": "Consider adding an enzyme infobox if only one human paralog is assigned to a given EC number.",
+          "reference": "If there is only one human paralog assigned to a given EC number (the ExPASy database maintains EC number to protein mappings), then in addition to a protein infobox, it may be appropriate to also add the corresponding enzyme infobox.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Top of article",
+          "when": "When one human paralog is assigned to an EC number",
+          "level": "article-level"
+        },
+        {
+          "id": "22",
+          "description": "Consider including a protein family infobox if only one human paralog is assigned to a Pfam family.",
+          "reference": "Likewise, if there is only one human paralog that has been assigned to Pfam family, then including a protein family infobox may also be appropriate.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Top of article",
+          "when": "When one human paralog is assigned to a Pfam family",
+          "level": "article-level"
+        },
+        {
+          "id": "23",
+          "description": "Place less useful infoboxes in a section at the end of an article, side-by-side with a table.",
+          "reference": "There exist some cases where a large number of infoboxes may apply to an article. You may put less useful ones in a section at the end, laid side-by-side with a table.",
+          "category": "Infoboxes",
+          "classification": "Flexible Guidelines",
+          "where": "Section at the end of article",
+          "when": "When a large number of infoboxes apply",
+          "level": "article-level"
+        },
+        {
+          "id": "24",
+          "description": "Avoid collapsing or horizontally scrolling tables of infoboxes, as MOS:COLLAPSE may not apply.",
+          "reference": "Collapsing or horizontally scrolling the said table is doubtful, as MOS:COLLAPSE may or may not apply depending on how \"extraneous\" the boxes are.",
+          "category": "Infoboxes",
+          "classification": "Contextual Considerations",
+          "where": "Section at the end of article",
+          "when": "When deciding on table formatting for infoboxes",
+          "level": "article-level"
+        }
+      ]
+    },
+    {
+      "description": "Wikidata linkage and article organization",
+      "category": "Structure",
+      "requirements": [
+        {
+          "id": "25",
+          "description": "**Must** define the article's scope in the first sentence of the lead.",
+          "reference": "The first sentence of the lead should define what the scope of the article is.",
+          "category": "Structure",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always",
+          "level": "section-level"
+        },
+        {
+          "id": "26",
+          "description": "Use the recommended UniProt name and HUGO gene symbol in the lead for genes/proteins with human orthologs.",
+          "reference": "For genes/proteins in which a human ortholog exists, \"<recommended UniProt name> is a protein that in humans is encoded by the <approved HUGO gene symbol> gene.\" would be appropriate.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Lead section",
+          "when": "When a human ortholog exists",
+          "level": "sentence-level"
+        },
+        {
+          "id": "27",
+          "description": "Avoid repeating information already in the infobox in the Gene section unless notable.",
+          "reference": "Much of this basic information may already contained in the infobox and should not be unnecessarily repeated in this section unless especially notable.",
+          "category": "Structure",
+          "classification": "Best Practices",
+          "where": "Gene section",
+          "when": "When information is covered in the infobox",
+          "level": "section-level"
+        },
+        {
+          "id": "28",
+          "description": "Avoid repeating information already in the infobox in the Protein section unless notable.",
+          "reference": "Again, much of this basic information may already contained in the infobox and should not be unnecessarily repeated unless especially notable.",
+          "category": "Structure",
+          "classification": "Best Practices",
+          "where": "Protein section",
+          "when": "When information is covered in the infobox",
+          "level": "section-level"
+        },
+        {
+          "id": "29",
+          "description": "Provide details on the species, tissue, and subcellular distribution of the gene/protein.",
+          "reference": "Optional section that concisely describes what species this gene is expressed (e.g., wide species distribution, bacteria, fungi, vertebrates, mammals, etc.), what tissue the protein is expressed, and which subcellular compartments or organelles the protein is found (excreted, cytoplasm, nucleus, mitochondria, cell membrane).",
+          "category": "Content",
+          "classification": "Flexible Guidelines",
+          "where": "Species, tissue, and subcellular distribution section",
+          "when": "When providing distribution details",
+          "level": "section-level"
+        },
+        {
+          "id": "30",
+          "description": "**Must** describe the function of the transcribed protein.",
+          "reference": "Describe the function of the transcribed protein.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Function section",
+          "when": "Always",
+          "level": "section-level"
+        },
+        {
+          "id": "31",
+          "description": "List proteins that the subject protein interacts with in the Interactions section.",
+          "reference": "Optional section that lists proteins that the protein that is the subject of the article is known to interact with.",
+          "category": "Content",
+          "classification": "Flexible Guidelines",
+          "where": "Interactions section",
+          "when": "When known interactions exist",
+          "level": "section-level"
+        },
+        {
+          "id": "32",
+          "description": "**Must** list diseases or conditions related to gene/protein mutations or imbalances.",
+          "reference": "List diseases or conditions that are a result of a mutation in the gene or a deficiency or excess of the expressed protein.",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Clinical significance section",
+          "when": "Always",
+          "level": "section-level"
+        },
+        {
+          "id": "33",
+          "description": "Mention names of those who made key discoveries in the History/Discovery section.",
+          "reference": "However it is appropriate to list the names of those who made key discoveries concerning the gene or protein in this section (e.g., the scientist or group that originally cloned the gene, determined its function, linked it to a disease, won a major award for the discovery, etc.).",
+          "category": "Structure",
+          "classification": "Best Practices",
+          "where": "History/Discovery section",
+          "when": "When noting key discoveries",
+          "level": "section-level"
+        },
+        {
+          "id": "34",
+          "description": "**Must** link the Wikipedia article to a Wikidata item of the entity mentioned first in the lead sentence.",
+          "reference": "The Wikipedia article should be linked to a Wikidata item of the entity first mentioned in the first sentence of the lead section.",
+          "category": "Structure",
+          "classification": "Imperative Standards",
+          "where": "Lead section",
+          "when": "Always",
+          "level": "section-level"
+        }
+      ]
+    }
+  ]
+}
