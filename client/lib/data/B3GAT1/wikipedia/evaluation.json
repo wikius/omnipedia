@@ -1,0 +1,517 @@
+{
+  "sections": [
+    {
+      "index": 1,
+      "title": "Lead",
+      "sentence_evaluations": [
+        {
+          "index": 1,
+          "sentence": "**3-beta-glucuronosyltransferase 1** (B3GAT1) is an [enzyme](https://en.wikipedia.org/wiki/Enzyme) that in humans is encoded by the *B3GAT1* [gene](https://en.wikipedia.org/wiki/Gene), whose enzymatic activity creates the CD57 [epitope](https://en.wikipedia.org/wiki/Epitope) on other cell surface proteins.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R25",
+              "requirement_category": "Structure",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Defines the article's scope in the first sentence of the lead.",
+              "reasoning": "The first sentence clearly defines the scope by introducing the enzyme and its encoding gene.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Sentence explicitly defines the enzyme and gene, establishing the article's focus.",
+              "reasoning_detail": "Fully adheres to defining the article's scope."
+            },
+            {
+              "requirement_id": "R26",
+              "requirement_category": "Content",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Uses recommended UniProt name and HUGO gene symbol in the lead.",
+              "reasoning": "Uses '3-beta-glucuronosyltransferase 1' and 'B3GAT1' appropriately.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Correct usage of UniProt name and HUGO gene symbol.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviations and full names are used in the lead.",
+              "reasoning": "The gene abbreviation '*B3GAT1*' is correctly italicized as per guidelines.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene abbreviation is in italics.",
+              "reasoning_detail": "Fully adheres to italics requirement for gene names."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Abbreviations are used instead of full gene names.",
+              "reasoning": "Uses 'B3GAT1' abbreviation appropriately without unnecessary repetition of the full gene name.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Abbreviation 'B3GAT1' is used instead of repeatedly stating the full gene name.",
+              "reasoning_detail": "Meets the best practice of using abbreviations."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned in the lead.",
+              "reasoning": "The human gene name 'B3GAT1' is correctly written in capitals and italicized.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene name 'B3GAT1' is in capitals and italicized.",
+              "reasoning_detail": "Fully adheres to the capitalization and formatting standards for human gene names."
+            },
+            {
+              "requirement_id": "R8",
+              "requirement_category": "Language Usage",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Uses gene symbols without redundancy.",
+              "reasoning": "The phrase 'encoded by the *B3GAT1* gene' avoids redundancy by not repeating the full gene name unnecessarily.",
+              "score": 1.0,
+              "confidence": 0.9,
+              "evidence": "Correct usage without redundancy in gene naming.",
+              "reasoning_detail": "Meets the recommended usage guidelines for gene symbols."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "In [immunology](https://en.wikipedia.org/wiki/Immunology), the CD57 [antigen](https://en.wikipedia.org/wiki/Antigen) (CD stands for [cluster of differentiation](https://en.wikipedia.org/wiki/Cluster_of_differentiation)) is also known as HNK1 (human natural killer-1) or LEU7.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R8",
+              "requirement_category": "Language Usage",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Uses CD57 antigen correctly without redundancy.",
+              "reasoning": "The term 'CD57 antigen' is used appropriately and clearly.",
+              "score": 1.0,
+              "confidence": 0.9,
+              "evidence": "No redundant phrasing in the usage of 'CD57 antigen'.",
+              "reasoning_detail": "Fully adheres to best practices for gene symbol usage."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "It is expressed as a carbohydrate [epitope](https://en.wikipedia.org/wiki/Epitope) that contains a sulfoglucuronyl residue in several [adhesion molecules](https://en.wikipedia.org/wiki/Cell_adhesion_molecule) of the [nervous system](https://en.wikipedia.org/wiki/Nervous_system).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "requirement_category": "Content",
+          "classification": "Contextual Considerations",
+          "applicable": true,
+          "applicability_reasoning": "The scope includes the human gene and its protein.",
+          "reasoning": "The article focuses on the human gene and its protein, meeting the scope requirement.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "Lead section defines the human gene and protein clearly.",
+          "reasoning_detail": "Fully adheres to the scope definition."
+        },
+        {
+          "requirement_id": "R25",
+          "requirement_category": "Structure",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "The first sentence of the lead defines the scope.",
+          "reasoning": "Complies with defining the article's scope in lead.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Lead section defines the enzyme and gene clearly.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R26",
+          "requirement_category": "Content",
+          "classification": "Best Practices",
+          "applicable": true,
+          "applicability_reasoning": "Uses recommended UniProt name and HUGO gene symbol in lead.",
+          "reasoning": "Uses '3-beta-glucuronosyltransferase 1' and 'B3GAT1' correctly.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Correct usage of UniProt name and HUGO gene symbol.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R3",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Does not list authors' qualifications, avoiding hype.",
+          "reasoning": "The article refrains from listing authors' credentials, adhering to standards.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "No listing of authors' qualifications in the content.",
+          "reasoning_detail": "Fully adheres to the requirement."
+        },
+        {
+          "requirement_id": "R5",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Gene names and abbreviations are used in the lead.",
+          "reasoning": "The gene abbreviation '*B3GAT1*' is correctly italicized as per guidelines.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "Gene abbreviation is in italics.",
+          "reasoning_detail": "Fully adheres to italics requirement for gene names."
+        },
+        {
+          "requirement_id": "R6",
+          "requirement_category": "Naming",
+          "classification": "Best Practices",
+          "applicable": true,
+          "applicability_reasoning": "Abbreviations are used instead of full gene names.",
+          "reasoning": "Uses 'B3GAT1' abbreviation appropriately without unnecessary repetition of the full gene name.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Abbreviation 'B3GAT1' is used instead of repeatedly stating the full gene name.",
+          "reasoning_detail": "Meets the best practice of using abbreviations."
+        },
+        {
+          "requirement_id": "R7",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Human gene names are mentioned in the lead.",
+          "reasoning": "The human gene name 'B3GAT1' is correctly written in capitals and italicized.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "Gene name 'B3GAT1' is in capitals and italicized.",
+          "reasoning_detail": "Fully adheres to the capitalization and formatting standards for human gene names."
+        },
+        {
+          "requirement_id": "R8",
+          "requirement_category": "Language Usage",
+          "classification": "Best Practices",
+          "applicable": true,
+          "applicability_reasoning": "Uses gene symbols without redundancy.",
+          "reasoning": "The phrase 'encoded by the *B3GAT1* gene' avoids redundancy by not repeating the full gene name unnecessarily.",
+          "score": 1.0,
+          "confidence": 0.9,
+          "evidence": "Correct usage without redundancy in gene naming.",
+          "reasoning_detail": "Meets the recommended usage guidelines for gene symbols."
+        }
+      ],
+      "meta_notes": "The lead section is well-defined and adheres to gene nomenclature standards."
+    },
+    {
+      "index": 2,
+      "title": "Function",
+      "sentence_evaluations": [
+        {
+          "index": 1,
+          "sentence": "The protein encoded by this gene is a member of the glucuronyltransferase gene family.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "These enzymes exhibit strict acceptor specificity, recognizing nonreducing terminal sugars and their anomeric linkages.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "This gene product functions as the key enzyme in a glucuronyl transfer reaction during the biosynthesis of the carbohydrate epitope HNK-1 (human natural killer-1, also known as CD57 and LEU7).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R30",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Describes the function of the transcribed protein.",
+              "reasoning": "The sentence clearly describes the enzyme's role in biosynthesis.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Detailed description of the enzyme's function in carbohydrate epitope synthesis.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Uses protein names correctly.",
+              "reasoning": "Protein name 'HNK-1' is correctly formatted without italics as per guidelines.",
+              "score": 1.0,
+              "confidence": 0.9,
+              "evidence": "Protein names are not italicized, adhering to standards.",
+              "reasoning_detail": "Fully adheres to formatting requirements for protein names."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "Alternate transcriptional splice variants have been characterized.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R1",
+              "requirement_category": "Content",
+              "classification": "Contextual Considerations",
+              "applicable": true,
+              "applicability_reasoning": "Mentions splice variants which may imply orthologs.",
+              "reasoning": "While splice variants are mentioned, orthologs in other species are not discussed.",
+              "score": 0.75,
+              "confidence": 0.8,
+              "evidence": "Splice variants are a form of gene variation but orthologs are not addressed.",
+              "reasoning_detail": "Partial adherence; mentioning orthologs would improve compliance."
+            }
+          ],
+          "meta_notes": "Consider expanding on orthologs in other species to fully adhere to scope requirements."
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R30",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Describes the function of the transcribed protein.",
+          "reasoning": "The Function section describes the role and specificity of the enzyme.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Provides clear description of the protein function.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R1",
+          "requirement_category": "Content",
+          "classification": "Contextual Considerations",
+          "applicable": true,
+          "applicability_reasoning": "The scope includes the human gene and its protein.",
+          "reasoning": "The article focuses on the human gene and its protein, meeting the scope requirement.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "Lead and Function sections define the human gene and protein.",
+          "reasoning_detail": "Fully adheres to the scope definition."
+        }
+      ],
+      "meta_notes": "The Function section adequately describes the protein function and adheres to standards. Consider expanding on orthologs in other species."
+    },
+    {
+      "index": 3,
+      "title": "Immunohistochemistry",
+      "sentence_evaluations": [
+        {
+          "index": 1,
+          "sentence": "In anatomical pathology, CD57 (immunostaining) is similar to CD56 for use in differentiating [neuroendocrine tumors](https://en.wikipedia.org/wiki/Neuroendocrine_tumor) from others.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "Using [immunohistochemistry](https://en.wikipedia.org/wiki/Immunohistochemistry), CD57 molecules can be demonstrated in around 10 to 20% of [lymphocytes](https://en.wikipedia.org/wiki/Lymphocyte), as well as in some [epithelial](https://en.wikipedia.org/wiki/Epithelium), neural, and [chromaffin cells](https://en.wikipedia.org/wiki/Chromaffin_cell).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "Among [lymphocytes](https://en.wikipedia.org/wiki/Lymphocyte), CD57 positive cells are typically either [T cells](https://en.wikipedia.org/wiki/T_cell) or [NK cells](https://en.wikipedia.org/wiki/Natural_killer_cell), and are most commonly found within the [germinal centers](https://en.wikipedia.org/wiki/Germinal_center) of [lymph nodes](https://en.wikipedia.org/wiki/Lymph_node), tonsils, and the spleen.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "There is an increase in the number of circulating CD57 positive cells in the blood of patients who have recently undergone organ or tissue transplants, especially of the bone marrow, and in patients with [HIV](https://en.wikipedia.org/wiki/HIV).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "Increased CD57+ counts have also been reported in [rheumatoid arthritis](https://en.wikipedia.org/wiki/Rheumatoid_arthritis) and [Felty's syndrome](https://en.wikipedia.org/wiki/Felty%27s_syndrome), among other conditions.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 6,
+          "sentence": "High levels of CD57 expression amongst circulating CD8+ T cells is associated with other markers of immune ageing (immunosenescence) and may be associated with increased cancer risk in renal transplant recipients.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 7,
+          "sentence": "[Neoplastic](https://en.wikipedia.org/wiki/Neoplasm) CD57 positive cells are seen in conditions as varied as [large granular lymphocytic leukemia](https://en.wikipedia.org/wiki/Large_granular_lymphocytic_leukemia), [small-cell carcinoma](https://en.wikipedia.org/wiki/Small-cell_carcinoma), [thyroid carcinoma](https://en.wikipedia.org/wiki/Thyroid_neoplasm), and neural and [carcinoid](https://en.wikipedia.org/wiki/Carcinoid_tumor) tumors.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Lists diseases related to gene/protein mutations or imbalances.",
+              "reasoning": "The sentence lists various conditions associated with CD57 positive cells.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Mentions diseases like large granular lymphocytic leukemia, small-cell carcinoma, etc.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 8,
+          "sentence": "Although the antigen is particularly common in carcinoid tumors, it is found in such a wide range of other conditions that it is of less use in distinguishing these tumors from others than more specific markers such as [chromogranin](https://en.wikipedia.org/wiki/Chromogranin) and [neuron-specific enolase (NSE)](https://en.wikipedia.org/wiki/Neuron_specific_enolase).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R31",
+              "requirement_category": "Content",
+              "classification": "Flexible Guidelines",
+              "applicable": true,
+              "applicability_reasoning": "Discusses interactions with other markers.",
+              "reasoning": "Mentions interaction with chromogranin and neuron-specific enolase.",
+              "score": 0.75,
+              "confidence": 0.8,
+              "evidence": "Indirectly references interactions with other markers.",
+              "reasoning_detail": "Partial adherence; could list specific protein interactions in more detail."
+            }
+          ],
+          "meta_notes": "The sentence discusses interactions with other markers but could benefit from more detailed information on protein interactions."
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R31",
+          "requirement_category": "Content",
+          "classification": "Flexible Guidelines",
+          "applicable": true,
+          "applicability_reasoning": "Lists interactions with other markers such as chromogranin and NSE.",
+          "reasoning": "The Immunohistochemistry section mentions interactions with other markers, aligning with flexible guidelines.",
+          "score": 0.75,
+          "confidence": 0.8,
+          "evidence": "References to chromogranin and NSE as more specific markers.",
+          "reasoning_detail": "Partially adheres to listing protein interactions; could be more detailed."
+        },
+        {
+          "requirement_id": "R32",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Lists diseases or conditions related to gene/protein mutations or imbalances.",
+          "reasoning": "The section lists conditions such as rheumatoid arthritis and Felty's syndrome associated with CD57.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Mentions diseases like rheumatoid arthritis and Felty's syndrome.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "The Immunohistochemistry section comprehensively covers CD57's role in various conditions but could improve by listing specific protein interactions in more detail."
+    }
+  ],
+  "article_evaluation": {
+    "requirement_evaluations": [
+      {
+        "requirement_id": "R1",
+        "requirement_category": "Content",
+        "classification": "Contextual Considerations",
+        "applicable": true,
+        "applicability_reasoning": "The scope includes the human gene and its protein.",
+        "reasoning": "The article focuses on the human gene and its protein, meeting the scope requirement.",
+        "score": 1.0,
+        "confidence": 1.0,
+        "evidence": "Lead and Function sections define the human gene and protein.",
+        "reasoning_detail": "Fully adheres to the scope definition."
+      },
+      {
+        "requirement_id": "R3",
+        "requirement_category": "Content",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Does not list authors' qualifications, avoiding hype.",
+        "reasoning": "The article refrains from listing authors' credentials, adhering to standards.",
+        "score": 1.0,
+        "confidence": 1.0,
+        "evidence": "No listing of authors' qualifications in the content.",
+        "reasoning_detail": "Fully adheres to the requirement."
+      },
+      {
+        "requirement_id": "R5",
+        "requirement_category": "Language Usage",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Gene names and abbreviations are used in the article.",
+        "reasoning": "All gene names are correctly italicized and capitalized as per guidelines.",
+        "score": 1.0,
+        "confidence": 1.0,
+        "evidence": "Gene abbreviations like '*B3GAT1*' are italicized and in capitals.",
+        "reasoning_detail": "Fully adheres to the formatting requirements for gene names."
+      },
+      {
+        "requirement_id": "R6",
+        "requirement_category": "Naming",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "Abbreviations are consistently used throughout the article.",
+        "reasoning": "Uses 'B3GAT1' abbreviation appropriately without unnecessary repetition.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Consistent use of 'B3GAT1' abbreviation.",
+        "reasoning_detail": "Meets the best practice of using abbreviations."
+      },
+      {
+        "requirement_id": "R7",
+        "requirement_category": "Language Usage",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Human gene names are correctly formatted.",
+        "reasoning": "All human gene names like 'B3GAT1' are in capitals and italicized.",
+        "score": 1.0,
+        "confidence": 1.0,
+        "evidence": "Gene names are consistently in capitals and italicized.",
+        "reasoning_detail": "Fully adheres to capitalization and formatting standards."
+      },
+      {
+        "requirement_id": "R8",
+        "requirement_category": "Language Usage",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "Gene symbols are used without redundancy.",
+        "reasoning": "The article uses gene symbols like 'B3GAT1' appropriately without unnecessary repetition.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Correct and non-redundant usage of gene symbols.",
+        "reasoning_detail": "Fully meets the requirement."
+      },
+
+      {
+        "requirement_id": "R15",
+        "requirement_category": "Infoboxes",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "The gene has a human genome ortholog.",
+        "reasoning": "Infobox GNF protein is included as the gene has a human ortholog.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Infobox GNF protein is present at the top of the article.",
+        "reasoning_detail": "Fully meets the requirement."
+      },
+      {
+        "requirement_id": "R34",
+        "requirement_category": "Structure",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Article is linked to a Wikidata item of the entity first mentioned in the lead.",
+        "reasoning": "The Wikipedia article is properly linked to the corresponding Wikidata item.",
+        "score": 1.0,
+        "confidence": 1.0,
+        "evidence": "Wikidata linkage is correctly established.",
+        "reasoning_detail": "Fully meets the requirement."
+      }
+    ],
+    "meta_notes": "Overall, the article adheres well to mandatory requirements and best practices. Areas for improvement include mentioning orthologs in other species and providing more detailed protein interaction information."
+  }
+}

@@ -1,0 +1,1029 @@
+{
+  "sections": [
+    {
+      "index": 1,
+      "title": "Lead",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "**Glutamate ionotropic receptor AMPA type subunit 2** (Glutamate receptor 2, or GluR-2) is a [protein](https://en.wikipedia.org/wiki/Protein) that in humans is encoded by the *GRIA2* (or *GLUR2*) [gene](https://en.wikipedia.org/wiki/Gene) and it is a subunit found in the [AMPA receptors](https://en.wikipedia.org/wiki/AMPA_receptor).",
+          "requirement_evaluations": [],
+          "meta_notes": "Consider linking the article to the corresponding Wikidata item for the entity mentioned in the lead."
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R25",
+          "requirement_category": "Structure",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Section defines the article scope in the lead sentence.",
+          "reasoning": "The lead defines the article's scope clearly.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Provides a comprehensive definition of the protein and gene.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R34",
+          "requirement_category": "Structure",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Must link to Wikidata item for the entity mentioned first in the lead.",
+          "reasoning": "The lead does not include a link to a Wikidata item.",
+          "score": 0.0,
+          "confidence": 0.95,
+          "evidence": "No Wikidata link present in the lead.",
+          "reasoning_detail": "Does not meet the requirement."
+        }
+      ],
+      "meta_notes": "The lead defines the article's scope clearly but lacks a link to a Wikidata item for the entity mentioned."
+    },
+    {
+      "index": 2,
+      "title": "Function",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "[Glutamate receptors](https://en.wikipedia.org/wiki/Glutamate_receptor) are the predominant excitatory [neurotransmitter receptors](https://en.wikipedia.org/wiki/Neurotransmitter_receptor) in the [mammalian brain](https://en.wikipedia.org/wiki/Mammalian_brain) and are activated in a variety of normal neurophysiologic processes.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "This gene product belongs to a family of glutamate receptors that are sensitive to [AMPA](https://en.wikipedia.org/wiki/AMPA) (alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate), called [AMPA receptors](https://en.wikipedia.org/wiki/AMPA_receptor), and function as [ligand-activated cation channels](https://en.wikipedia.org/wiki/Ligand-gated_ion_channel#Ionotropic_glutamate_receptors).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "These channels are assembled from a combination of 4 subunits, encoded by 4 genes (*GRIA1-4*).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "The subunit encoded by this gene (*GRIA2*) is subject to [RNA editing](https://en.wikipedia.org/wiki/RNA_editing) which renders the receptor that it becomes part of impermeable to [calcium ions](https://en.wikipedia.org/wiki/Calcium_in_biology) (Ca<sup>2+</sup>).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "Human and animal studies suggest that the RNA editing is essential for normal brain function and defective RNA editing of this gene may be relevant to the etiology of [amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) (ALS).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "[Alternative splicing](https://en.wikipedia.org/wiki/Alternative_splicing), resulting in transcript variants encoding different [isoforms](https://en.wikipedia.org/wiki/Protein_isoform), has been noted for this gene, which includes the generation of flip and flop isoforms that vary in their [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction) properties.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R13",
+          "requirement_category": "Formatting",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Diagrams should adhere to a standard format whenever possible.",
+          "reasoning": "No diagrams are present in the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No diagrams included; thus, no formatting issues.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R30",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Section describes the function of the transcribed protein.",
+          "reasoning": "The section provides a detailed description of the protein's function.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Comprehensive explanation of function related to AMPA receptors and RNA editing.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Section adequately describes the protein's function and adheres to diagram standards."
+    },
+    {
+      "index": 3,
+      "title": "Interactions",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "GRIA2 has been shown to [interact](https://en.wikipedia.org/wiki/Protein-protein_interaction) with [SPTAN1](https://en.wikipedia.org/wiki/SPTAN1), [GRIP1](https://en.wikipedia.org/wiki/GRIP1) and [PICK1](https://en.wikipedia.org/wiki/PICK1).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [],
+      "meta_notes": ""
+    },
+    {
+      "index": 4,
+      "title": "RNA editing",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "Several ion channels and neurotransmitter receptors pre-[mRNA](https://en.wikipedia.org/wiki/Messenger_RNA) as substrates for [ADAR](https://en.wikipedia.org/wiki/ADAR)s.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "This includes 5 subunits of the glutamate receptor ionotropic AMPA glutamate receptor subunits (Glur2, Glur3, Glur4) and [kainate receptor](https://en.wikipedia.org/wiki/Kainate_receptor) subunits (Glur5, Glur6).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "Glutamate-gated ion channels are made up of four subunits per channel, with each subunit contributing to the pore loop structure.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "The pore loop structure is related to that found in K<sup>+</sup> channels (e.g., human [Kv1.1](https://en.wikipedia.org/wiki/Kv1.1) channel).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "The human Kv1.1 channel pre mRNA is also subject to A to I RNA editing.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "The function of the glutamate receptors is in the mediation of fast neurotransmission to the brain.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 6,
+          "sentence": "The diversity of the subunits is determined, as well as RNA splicing by RNA editing events of the individual subunits.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 7,
+          "sentence": "This give rise to the necessarily high diversity of these receptors.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 8,
+          "sentence": "Glur2 is a gene product of the pre-mRNA of the GRIA2 gene and subject to RNA editing.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R13",
+          "requirement_category": "Formatting",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Diagrams should adhere to a standard format whenever possible.",
+          "reasoning": "No diagrams are present in the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No diagrams included; thus, no formatting issues.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R30",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Section describes the function of the transcribed protein.",
+          "reasoning": "The section provides a detailed description of RNA editing related to the protein.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Comprehensive explanation of RNA editing and its effects on the protein.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Section adequately describes RNA editing and adheres to diagram standards."
+    },
+    {
+      "index": 5,
+      "title": "Type",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "The type of RNA editing that occurs in the pre-mRNA of GluR-2 is Adenosine-to-Inosine (A-to-I) editing.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "A-to-I RNA editing is catalyzed by a family of adenosine deaminases acting on RNA (ADARs) that specifically recognize adenosines within double-stranded regions of pre-mRNAs and deaminate them to inosine.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "Inosines are recognised as guanosine by the cells translational machinery.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "There are three members of the ADAR family ADARs 1-3, with ADAR1 and ADAR2 being the only enzymatically active members.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "ADAR3 is thought to have a regulatory role in the brain.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "ADAR1 and ADAR2 are widely expressed in tissues, while ADAR3 is restricted to the brain.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 6,
+          "sentence": "The double-stranded regions of RNA are formed by base-pairing between residues in the close to region of the editing site, with residues usually in a neighboring intron, but can be an exonic sequence.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 7,
+          "sentence": "The region that base pairs with the editing region is known as an Editing Complementary Sequence (ECS).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 8,
+          "sentence": "ADARs bind interact directly with the dsRNA substrate via their double-stranded RNA binding domains.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 9,
+          "sentence": "If an editing site occurs within a coding sequence, it can result in a codon change.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 10,
+          "sentence": "This can lead to translation of a protein isoform due to a change in its primary protein structure.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 11,
+          "sentence": "Therefore, editing can also alter protein function.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 12,
+          "sentence": "A-to-I editing occurs in a non coding RNA sequences such as introns, untranslated regions (UTRs), LINEs, SINEs (especially Alu repeats).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 13,
+          "sentence": "The function of A to I editing in these regions is thought to involve creation of splice sites and retention of RNAs in the nucleus amongst others.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R13",
+          "requirement_category": "Formatting",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Diagrams should adhere to a standard format whenever possible.",
+          "reasoning": "No diagrams are present in the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No diagrams included; thus, no formatting issues.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R30",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Section describes the function of the transcribed protein.",
+          "reasoning": "The section provides a detailed description of RNA editing related to the protein.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Comprehensive explanation of RNA editing and its effects on the protein.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Section adequately describes the type of RNA editing and adheres to diagram standards."
+    },
+    {
+      "index": 6,
+      "title": "Location",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "In the pre-mRNA of GluR-2 the editing site Q/R is found at amino acid  position 607.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "This location is in the pore loop region deep within the ion channel in the proteins membrane segment 2.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "Editing results in a change from a glutamine(Q) codon to an Arginine (R) codon.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "Editing at the R/G site, located at amino acid position 764 results in a codon change from arginine to glycine.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "All editing in glutamate receptors occurs in double-stranded RNAs (dsRNAs), which form due to complementary base pairing between the region of the editing site within the exon and an ECS within an intron sequence.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R13",
+          "requirement_category": "Formatting",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Diagrams should adhere to a standard format whenever possible.",
+          "reasoning": "No diagrams are present in the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No diagrams included; thus, no formatting issues.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Section adequately describes the location of RNA editing sites and adheres to diagram standards."
+    },
+    {
+      "index": 7,
+      "title": "Regulation",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "Editing occurs at the Q/R site at a frequency of 100% of GluR2 transcripts in the brain.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "It is the only known editing site to be edited at a frequency of 100%.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "However, some striatal and cortical neurons are edited less frequently.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "This has been suggested as a reason for the higher level of excitotoxicity of these particular neurons.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "The R/G site is developmentally regulated, being largely unedited in the embryonic brain with levels rising after birth.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R13",
+          "requirement_category": "Formatting",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Diagrams should adhere to a standard format whenever possible.",
+          "reasoning": "No diagrams are present in the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No diagrams included; thus, no formatting issues.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Section adequately describes the regulation of RNA editing and adheres to diagram standards."
+    },
+    {
+      "index": 9,
+      "title": "Structure",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "Editing results in a codon change from a glutamine codon (CAG) to an arginine codon (CIG).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "Editing at R/G results in a codon change.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "The region of the editing site is known to be the region that controls divalent cation permeability.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "The other ionotropic AMPA glutamate receptors have a genomically encoded have a glutamine residue, while GluR2 has an arginine.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R13",
+          "requirement_category": "Formatting",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Diagrams should adhere to a standard format whenever possible.",
+          "reasoning": "No diagrams are present in the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No diagrams included; thus, no formatting issues.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Section adequately describes the structural aspects of RNA editing and adheres to diagram standards."
+    },
+    {
+      "index": 10,
+      "title": "Function",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "RNA editing of the GluR-2 (GluR-B) pre-mRNA is the best-characterised example of A-to-I editing.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "Activated by L-Glutamate, a major excitatory neurotransmitter in vertebrates central nervous systems, it acts as an agonist at NMDA, AMPA, and kainate neurotransmitters.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "Activation results in neuronal cation entry (CA2+), causing membrane depolarisation required for the process of excitatory neurotransmission.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "The calcium permeability of these receptor channels is required for many important events in the CNS, including long-term potentiation.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "Since editing occurs in nearly 100% of transcripts and is necessary for life, it is often wondered why edited GluR-B is not genomically encoded instead of being derived by RNA editing.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "The answer is unknown.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 6,
+          "sentence": "RNA editing at the Q/R site is thought to alter the permeability of the channel rendering it impermeable to Ca<sup>2+</sup>.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 7,
+          "sentence": "The Q/R site also occurs in the Kainate receptors GluR5 and GluR6.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 8,
+          "sentence": "Editing at the Q/R site determines the calcium permeability of the channel, with channels containing the edited form being less permeable to calcium.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 9,
+          "sentence": "This differs from GluR6 where editing of the Q/R site may increase calcium permeability of the channel especially if the I/V and Y/C sites are also edited.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 10,
+          "sentence": "Therefore, the main function of editing is therefore in regulation of electrophysiology of the channel.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 11,
+          "sentence": "Editing in some striatal and cortical neurons is more likely to be subject to excitotoxicity, thought to be due to less than 100% editing of these particular neurons.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 12,
+          "sentence": "Editing also has several other function effects.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 13,
+          "sentence": "Editing alters the maturation and assembly of the channel, with the unedited form having a tendency to tetramerize and then is transported to the synapse.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 14,
+          "sentence": "However, the edited version is assembled as a monomer and resides mainly in the [endoplasmic reticulum](https://en.wikipedia.org/wiki/Endoplasmic_reticulum).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 15,
+          "sentence": "The arginine residue in the pore loop of GluR-2 receptor is thought to belong to a retention signal for the endoplasmic reticulum.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 16,
+          "sentence": "Therefore, editing - since it occurs at 100% frequency - inhibits the availability of the channel at the synapse.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 17,
+          "sentence": "This process occurs before assembly of the channels, thereby preventing glur-2-forming homeric channels, which could interfere with synaptic signalling.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 18,
+          "sentence": "Editing also occurs at the R/G site.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 19,
+          "sentence": "Editing at the R/G sites results in variation in the rate that the receptor recovers from desensitisation.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 20,
+          "sentence": "Editing at these sites results in faster recovery time from desensitisation.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R13",
+          "requirement_category": "Formatting",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Diagrams should adhere to a standard format whenever possible.",
+          "reasoning": "No diagrams are present in the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No diagrams included; thus, no formatting issues.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R30",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Section describes the function of the transcribed protein.",
+          "reasoning": "The section provides a detailed description of the protein's function related to RNA editing.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Comprehensive explanation of RNA editing and its functional consequences.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Section adequately describes the functional aspects of RNA editing and adheres to diagram standards."
+    },
+    {
+      "index": 11,
+      "title": "Dysregulation",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "**Amyotrophic Lateral Sclerosis**\n\nMany human and animal studies have determined that RNA editing of the Q/R site in GluR2 pre-mRNA is necessary for normal brain function.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Sentence lists a disease related to gene/protein mutations.",
+              "reasoning": "Mentions ALS in the context of RNA editing dysregulation.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "ALS is correctly listed as a condition related to RNA editing.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "Defective editing has been linked to several conditions such as [amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) (ALS).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Sentence lists a disease related to gene/protein mutations.",
+              "reasoning": "ALS is correctly linked to defective editing.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "ALS is appropriately mentioned as related to editing defects.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "ALS effects 1 in 2000 people, usually fatal in 1\u20135 years, with onset in the majority of cases being sporadic and minority being familial.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Provides additional details about ALS.",
+              "reasoning": "Statistics about ALS prevalence and fatality rates support its relevance.",
+              "score": 1.0,
+              "confidence": 0.9,
+              "evidence": "Includes relevant epidemiological data about ALS.",
+              "reasoning_detail": "Meets the requirement by providing context."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "With these conditions motor neurons degenerate leading to eventual paralysis and respiratory failure.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Describes the consequences of ALS.",
+              "reasoning": "Details the impact of ALS on motor neurons.",
+              "score": 1.0,
+              "confidence": 0.9,
+              "evidence": "Accurately describes the pathological effects of ALS.",
+              "reasoning_detail": "Meets the requirement by explaining disease impact."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "Glutamate excitotoxicity is known to contribute to the spread of the sporadic condition.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Links glutamate excitotoxicity to ALS.",
+              "reasoning": "Explains a mechanism by which RNA editing affects ALS.",
+              "score": 1.0,
+              "confidence": 0.9,
+              "evidence": "Connects biochemical processes to disease pathology.",
+              "reasoning_detail": "Meets the requirement by explaining disease mechanisms."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "Glutamate levels are increased up 40%, suggesting that activation of glutamate receptors could be the reason for this causing increase Ca influx and then neuronal death.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Provides biochemical details linking to ALS.",
+              "reasoning": "Details how increased glutamate levels contribute to neuronal death.",
+              "score": 1.0,
+              "confidence": 0.9,
+              "evidence": "Explains the biochemical basis for excitotoxicity in ALS.",
+              "reasoning_detail": "Meets the requirement by providing detailed disease-related information."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 6,
+          "sentence": "Since decrease nor loss of editing at Q/R site would lead to increase in calcium permeability.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Explains the molecular consequence related to ALS.",
+              "reasoning": "Links editing loss to calcium permeability changes.",
+              "score": 1.0,
+              "confidence": 0.85,
+              "evidence": "Describes the molecular mechanism affecting disease pathology.",
+              "reasoning_detail": "Meets the requirement by explaining how editing impacts disease."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 7,
+          "sentence": "In diseased motor neurons editing levels of Glur 2 (62-100%) at this site was discovered to be reduced.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Provides specific data linking editing to ALS.",
+              "reasoning": "Reports reduced editing levels in diseased neurons.",
+              "score": 1.0,
+              "confidence": 0.9,
+              "evidence": "Includes quantitative data on editing levels in ALS.",
+              "reasoning_detail": "Meets the requirement by providing specific disease-related data."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 8,
+          "sentence": "Abnormal editing is thought to be specific for this condition, as editing levels have not been found to be decreased in spinal and bulbar muscular atrophy.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Differentiates ALS from other conditions.",
+              "reasoning": "Specifies that editing dysregulation is unique to ALS among similar conditions.",
+              "score": 1.0,
+              "confidence": 0.85,
+              "evidence": "Clarifies the specificity of editing abnormalities to ALS.",
+              "reasoning_detail": "Meets the requirement by distinguishing disease-specific editing changes."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 9,
+          "sentence": "Q/R editing is not the only mechanism involved, as editing occurs only in spinal motor neurons not in upper spinal neurons.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Provides additional context on editing mechanisms in ALS.",
+              "reasoning": "Explains limitations of Q/R editing in disease pathology.",
+              "score": 1.0,
+              "confidence": 0.85,
+              "evidence": "Describes the scope of editing mechanisms in different neuron types.",
+              "reasoning_detail": "Meets the requirement by elaborating on disease mechanisms."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 10,
+          "sentence": "Also, it is unknown whether editing dysregulation is involved in the initiation of the condition, or whether it occurs during pathogenesis.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Discusses the role of editing dysregulation in disease progression.",
+              "reasoning": "Highlights uncertainties in the role of editing in ALS.",
+              "score": 1.0,
+              "confidence": 0.85,
+              "evidence": "Acknowledges gaps in understanding the timing of editing dysregulation in ALS.",
+              "reasoning_detail": "Meets the requirement by addressing complexities in disease mechanisms."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 11,
+          "sentence": "**Epilepsy**\n\nIn mouse models, failure of editing leads to epileptic seizures and death within 3 weeks of birth.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Introduces another condition related to editing dysregulation.",
+              "reasoning": "Links editing failure to epilepsy in models.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Provides evidence of editing's role in epilepsy through animal models.",
+              "reasoning_detail": "Fully meets the requirement by linking editing to another condition."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 12,
+          "sentence": "In mouse models, failure of editing leads to epileptic seizures and death within 3 weeks of birth.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Describes the consequences of editing failure in epilepsy.",
+              "reasoning": "Details the impact of editing failure on survival and neurological function.",
+              "score": 1.0,
+              "confidence": 0.9,
+              "evidence": "Explains the lethal outcomes of editing failure in epilepsy models.",
+              "reasoning_detail": "Meets the requirement by detailing disease outcomes."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 13,
+          "sentence": "Why editing exists at this site instead of a genomically encoded arginine is unknown since nearly 100% of transcripts are edited.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Questions the necessity of RNA editing in disease context.",
+              "reasoning": "Raises scientific questions about editing mechanisms in epilepsy.",
+              "score": 1.0,
+              "confidence": 0.85,
+              "evidence": "Addresses fundamental questions about the role of editing in disease.",
+              "reasoning_detail": "Meets the requirement by exploring the implications of editing."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 14,
+          "sentence": "**Cancer**\n\nDecreased editing at the Q/R site is also found in some human brain tumors.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Introduces cancer as another condition related to editing dysregulation.",
+              "reasoning": "Links editing decrease to brain tumors.",
+              "score": 1.0,
+              "confidence": 0.95,
+              "evidence": "Associates editing changes with cancer pathology.",
+              "reasoning_detail": "Fully meets the requirement by connecting editing to another disease."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 15,
+          "sentence": "Reduction of ADAR2 expression is thought to be associated with epileptic seizures in malignant glioma.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R32",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Details the molecular link between editing and cancer-related seizures.",
+              "reasoning": "Explains how ADAR2 reduction relates to epilepsy in glioma.",
+              "score": 1.0,
+              "confidence": 0.9,
+              "evidence": "Provides a specific molecular association between editing and cancer symptoms.",
+              "reasoning_detail": "Meets the requirement by detailing disease-specific molecular changes."
+            }
+          ],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R13",
+          "requirement_category": "Formatting",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Diagrams should adhere to a standard format whenever possible.",
+          "reasoning": "No diagrams are present in the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No diagrams included; thus, no formatting issues.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R32",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Section lists diseases related to gene/protein mutations or imbalances.",
+          "reasoning": "Details multiple conditions linked to editing dysregulation.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Includes ALS, Epilepsy, and Cancer as related conditions.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Section comprehensively lists diseases related to editing dysregulation and adheres to diagram standards."
+    },
+    {
+      "index": 12,
+      "title": "Use in diagnostic immunochemistry",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "GRIA2 is a diagnostic immunochemical marker for [solitary fibrous tumour](https://en.wikipedia.org/wiki/Solitary_fibrous_tumour) (SFT), distinguishing it from most mimics.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "Among other [CD34](https://en.wikipedia.org/wiki/CD34)-positive tumours, GRIA2 is also expressed in [dermatofibrosarcoma protuberans](https://en.wikipedia.org/wiki/Dermatofibrosarcoma_protuberans) (DFSP); however, clinical and histologic features aid in their distinction.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "GRIA2 shows a limited distribution in other soft tissue tumours.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R13",
+          "requirement_category": "Formatting",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Diagrams should adhere to a standard format whenever possible.",
+          "reasoning": "No diagrams are present in the section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No diagrams included; thus, no formatting issues.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Section adequately describes the diagnostic use of GRIA2 and adheres to diagram standards."
+    }
+  ],
+  "article_evaluation": {
+    "requirement_evaluations": [
+      {
+        "requirement_id": "R1",
+        "requirement_category": "Content",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "The article should include human genes/proteins and orthologs in other species.",
+        "reasoning": "The article includes information about the human GRIA2 gene but does not mention orthologs in other species.",
+        "score": 0.5,
+        "confidence": 0.9,
+        "evidence": "No mention of orthologs in other species within the article.",
+        "reasoning_detail": "Partial adherence; the article includes human gene information but lacks information on orthologs."
+      }
+    ],
+    "meta_notes": "The article includes comprehensive information about the human GRIA2 gene but lacks details on orthologs in other species as required."
+  }
+}

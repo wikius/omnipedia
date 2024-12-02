@@ -1,0 +1,84 @@
+[
+  {
+    "title": "APRT",
+    "content": "",
+    "level": 1,
+    "index": 1,
+    "sentences": []
+  },
+  {
+    "title": "Overview",
+    "content": "The APRT gene encodes the enzyme adenine phosphoribosyltransferase, which plays a pivotal role in the purine salvage pathway. This enzyme is categorized as a phosphoribosyltransferase and is responsible for converting adenine into adenosine monophosphate (AMP) using 5-phosphoribosyl-1-pyrophosphate (PRPP) as a substrate. The enzyme's activity is crucial for recycling adenine, thereby preventing its accumulation and subsequent conversion into 2,8-dihydroxyadenine, a compound that can lead to kidney stone formation if not properly managed (Silva2004ThreeDimensional; Hidaka1987Human). Structurally, adenine phosphoribosyltransferase is a homodimer with a conserved type I phosphoribosyltransferase fold, and its function is regulated by a dynamic catalytic loop (Silva2004ThreeDimensional; Huyet2018Structural). Mutations in the APRT gene can result in adenine phosphoribosyltransferase deficiency, a condition that can lead to severe renal complications if left untreated (Edvardsson2013Hereditary; BearaLasic2011Genetic).",
+    "level": 2,
+    "index": 2,
+    "sentences": [
+      "The APRT gene encodes the enzyme adenine phosphoribosyltransferase, which plays a pivotal role in the purine salvage pathway.",
+      "This enzyme is categorized as a phosphoribosyltransferase and is responsible for converting adenine into adenosine monophosphate (AMP) using 5-phosphoribosyl-1-pyrophosphate (PRPP) as a substrate.",
+      "The enzyme's activity is crucial for recycling adenine, thereby preventing its accumulation and subsequent conversion into 2,8-dihydroxyadenine, a compound that can lead to kidney stone formation if not properly managed (Silva2004ThreeDimensional; Hidaka1987Human).",
+      "Structurally, adenine phosphoribosyltransferase is a homodimer with a conserved type I phosphoribosyltransferase fold, and its function is regulated by a dynamic catalytic loop (Silva2004ThreeDimensional; Huyet2018Structural).",
+      "Mutations in the APRT gene can result in adenine phosphoribosyltransferase deficiency, a condition that can lead to severe renal complications if left untreated (Edvardsson2013Hereditary; BearaLasic2011Genetic)."
+    ]
+  },
+  {
+    "title": "Structure",
+    "content": "The human adenine phosphoribosyltransferase (APRT) enzyme is a homodimer, with each monomer consisting of nine \u00ce\u00b2-strands and six \u00ce\u00b1-helices. The structure is divided into core, hood, and flexible loop domains. The core domain features a conserved type I phosphoribosyltransferase (PRTase) fold, which is common among enzymes in this family (Silva2004ThreeDimensional). The hood domain includes two \u00ce\u00b1-helices and two \u00ce\u00b2-strands, while the flexible loop is characterized by a 'calyx-like' feature at the dimerization interface (Silva2004ThreeDimensional).\n\nThe active site of APRT accommodates the AMP product and is crucial for its catalytic function. Specific residues, such as Leu159 and Ala131, are responsible for the base specificities of type I PRTases (Silva2004ThreeDimensional). The enzyme's structure lacks a magnesium ion, which is typically important in the catalytic mechanism of PRTases, but a chloride ion is identified near R87 (Silva2004ThreeDimensional).\n\nThe enzyme's catalytic mechanism involves oxacarbenium transition states, with Glu104 playing a role in the deprotonation of the adenine N9 atom, facilitating the attack on the PRPP ribose C1 atom (Silva2008Structural).",
+    "level": 2,
+    "index": 3,
+    "sentences": [
+      "The human adenine phosphoribosyltransferase (APRT) enzyme is a homodimer, with each monomer consisting of nine \u00ce\u00b2-strands and six \u00ce\u00b1-helices.",
+      "The structure is divided into core, hood, and flexible loop domains.",
+      "The core domain features a conserved type I phosphoribosyltransferase (PRTase) fold, which is common among enzymes in this family (Silva2004ThreeDimensional).",
+      "The hood domain includes two \u00ce\u00b1-helices and two \u00ce\u00b2-strands, while the flexible loop is characterized by a 'calyx-like' feature at the dimerization interface (Silva2004ThreeDimensional).",
+      "The active site of APRT accommodates the AMP product and is crucial for its catalytic function.",
+      "Specific residues, such as Leu159 and Ala131, are responsible for the base specificities of type I PRTases (Silva2004ThreeDimensional).",
+      "The enzyme's structure lacks a magnesium ion, which is typically important in the catalytic mechanism of PRTases, but a chloride ion is identified near R87 (Silva2004ThreeDimensional).",
+      "The enzyme's catalytic mechanism involves oxacarbenium transition states, with Glu104 playing a role in the deprotonation of the adenine N9 atom, facilitating the attack on the PRPP ribose C1 atom (Silva2008Structural)."
+    ]
+  },
+  {
+    "title": "Function",
+    "content": "Adenine phosphoribosyltransferase (APRT) is a crucial enzyme in the purine salvage pathway, responsible for converting adenine into adenosine monophosphate (AMP) in the presence of 5-phosphoribosyl-1-pyrophosphate (PRPP) and magnesium ions. This conversion is essential for recycling adenine derived from dietary sources and the polyamine biosynthesis pathway, thus preventing the accumulation of adenine, which can be oxidized to 2,8-dihydroxyadenine, a compound that is poorly soluble and can lead to kidney stones if not properly managed (Silva2004ThreeDimensional; Hidaka1987Human).\n\nAPRT operates through an ordered sequential bibi reaction mechanism, synthesizing AMP and inorganic pyrophosphate (PPi) from adenine and PRPP. The enzyme's activity is regulated by a flexible loop, with the conserved residue Tyr105 playing a critical role in facilitating the forward reaction and ensuring cell growth (Huyet2018Structural). The enzyme is active in the cytoplasm and contributes significantly to maintaining nucleotide balance, which is crucial for DNA and RNA synthesis (Silva2008Structural).\n\nIn healthy human cells, APRT prevents the formation of urinary stones by ensuring low levels of adenine in the blood and urine, thus maintaining proper renal function (Silva2004ThreeDimensional).",
+    "level": 2,
+    "index": 4,
+    "sentences": [
+      "Adenine phosphoribosyltransferase (APRT) is a crucial enzyme in the purine salvage pathway, responsible for converting adenine into adenosine monophosphate (AMP) in the presence of 5-phosphoribosyl-1-pyrophosphate (PRPP) and magnesium ions.",
+      "This conversion is essential for recycling adenine derived from dietary sources and the polyamine biosynthesis pathway, thus preventing the accumulation of adenine, which can be oxidized to 2,8-dihydroxyadenine, a compound that is poorly soluble and can lead to kidney stones if not properly managed (Silva2004ThreeDimensional; Hidaka1987Human).",
+      "APRT operates through an ordered sequential bibi reaction mechanism, synthesizing AMP and inorganic pyrophosphate (PPi) from adenine and PRPP.",
+      "The enzyme's activity is regulated by a flexible loop, with the conserved residue Tyr105 playing a critical role in facilitating the forward reaction and ensuring cell growth (Huyet2018Structural).",
+      "The enzyme is active in the cytoplasm and contributes significantly to maintaining nucleotide balance, which is crucial for DNA and RNA synthesis (Silva2008Structural).",
+      "In healthy human cells, APRT prevents the formation of urinary stones by ensuring low levels of adenine in the blood and urine, thus maintaining proper renal function (Silva2004ThreeDimensional)."
+    ]
+  },
+  {
+    "title": "Clinical Significance",
+    "content": "Mutations in the APRT gene lead to adenine phosphoribosyltransferase deficiency, a rare autosomal recessive disorder that disrupts adenine metabolism. This deficiency results in the accumulation of 2,8-dihydroxyadenine (DHA), a poorly soluble compound that can form stones in the urinary tract and cause crystalline nephropathy. If untreated, this condition can progress to chronic kidney disease (CKD) and end-stage renal disease (ESRD) (Edvardsson2013Hereditary; BearaLasic2011Genetic).\n\nAPRT deficiency is characterized by the formation of radiolucent kidney stones, recurrent urinary tract infections, hematuria, and reddish-brown diaper stains in children. Many affected individuals remain asymptomatic, and the condition is often diagnosed through routine urine microscopy or sibling screening. In adults, ESRD due to crystalline nephropathy is a more common presentation, sometimes only recognized after kidney transplantation (Edvardsson2013Hereditary).\n\nThe disorder is more prevalent in Japan, France, and Iceland, with specific mutations such as the APRT\\*J allele being common in the Japanese population. Genetic testing and early recognition are crucial for preventing kidney failure, as the condition is often underdiagnosed due to a lack of awareness among clinicians (Kuno2004Comparison; Kamatani1992Only).",
+    "level": 2,
+    "index": 5,
+    "sentences": [
+      "Mutations in the APRT gene lead to adenine phosphoribosyltransferase deficiency, a rare autosomal recessive disorder that disrupts adenine metabolism.",
+      "This deficiency results in the accumulation of 2,8-dihydroxyadenine (DHA), a poorly soluble compound that can form stones in the urinary tract and cause crystalline nephropathy.",
+      "If untreated, this condition can progress to chronic kidney disease (CKD) and end-stage renal disease (ESRD) (Edvardsson2013Hereditary; BearaLasic2011Genetic).",
+      "APRT deficiency is characterized by the formation of radiolucent kidney stones, recurrent urinary tract infections, hematuria, and reddish-brown diaper stains in children.",
+      "Many affected individuals remain asymptomatic, and the condition is often diagnosed through routine urine microscopy or sibling screening.",
+      "In adults, ESRD due to crystalline nephropathy is a more common presentation, sometimes only recognized after kidney transplantation (Edvardsson2013Hereditary).",
+      "The disorder is more prevalent in Japan, France, and Iceland, with specific mutations such as the APRT\\*J allele being common in the Japanese population.",
+      "Genetic testing and early recognition are crucial for preventing kidney failure, as the condition is often underdiagnosed due to a lack of awareness among clinicians (Kuno2004Comparison; Kamatani1992Only)."
+    ]
+  },
+  {
+    "title": "Interactions",
+    "content": "Human adenine phosphoribosyltransferase (hAPRT) is involved in the purine salvage pathway and interacts with various substrates and cofactors to perform its catalytic functions. The enzyme specifically binds to adenine and phosphoribosyl pyrophosphate (PRPP) to catalyze the formation of adenosine monophosphate (AMP) (Huyet2018Structural). The interaction with PRPP is stabilized by a magnesium ion and several amino acids, including Arg67 and Arg87, which are crucial for the enzyme's activity (Huyet2018Structural).\n\nThe enzyme's activity is regulated by the dynamic motion of its catalytic loop, particularly involving the conserved Tyr105 residue. This residue is essential for controlling the enzyme's kinetic parameters and preventing strong inhibition by AMP (Huyet2018Structural). The Tyr105 residue interacts with the 1'-pyrophosphate moiety and Arg67, stabilizing the closed conformation of the loop, which is necessary for efficient catalysis (Huyet2018Structural).\n\nhAPRT also interacts with other proteins, such as human quinolinate phosphoribosyltransferase (hQPRT), although the specific details of these interactions are not fully elucidated (Huyet2018Structural). These interactions and structural dynamics are crucial for understanding the enzyme's role in purine metabolism and its potential implications in various diseases.",
+    "level": 2,
+    "index": 6,
+    "sentences": [
+      "Human adenine phosphoribosyltransferase (hAPRT) is involved in the purine salvage pathway and interacts with various substrates and cofactors to perform its catalytic functions.",
+      "The enzyme specifically binds to adenine and phosphoribosyl pyrophosphate (PRPP) to catalyze the formation of adenosine monophosphate (AMP) (Huyet2018Structural).",
+      "The interaction with PRPP is stabilized by a magnesium ion and several amino acids, including Arg67 and Arg87, which are crucial for the enzyme's activity (Huyet2018Structural).",
+      "The enzyme's activity is regulated by the dynamic motion of its catalytic loop, particularly involving the conserved Tyr105 residue.",
+      "This residue is essential for controlling the enzyme's kinetic parameters and preventing strong inhibition by AMP (Huyet2018Structural).",
+      "The Tyr105 residue interacts with the 1'-pyrophosphate moiety and Arg67, stabilizing the closed conformation of the loop, which is necessary for efficient catalysis (Huyet2018Structural).",
+      "hAPRT also interacts with other proteins, such as human quinolinate phosphoribosyltransferase (hQPRT), although the specific details of these interactions are not fully elucidated (Huyet2018Structural).",
+      "These interactions and structural dynamics are crucial for understanding the enzyme's role in purine metabolism and its potential implications in various diseases."
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "title": "GRIA2",
+    "content": "",
+    "level": 1,
+    "sentences": [],
+    "index": 1
+  },
+  {
+    "title": "Lead",
+    "content": "**Glutamate ionotropic receptor AMPA type subunit 2** (Glutamate receptor 2, or GluR-2) is a [protein](https://en.wikipedia.org/wiki/Protein) that in humans is encoded by the *GRIA2* (or *GLUR2*) [gene](https://en.wikipedia.org/wiki/Gene) and it is a subunit found in the [AMPA receptors](https://en.wikipedia.org/wiki/AMPA_receptor).",
+    "level": 2,
+    "sentences": [
+      "**Glutamate ionotropic receptor AMPA type subunit 2** (Glutamate receptor 2, or GluR-2) is a [protein](https://en.wikipedia.org/wiki/Protein) that in humans is encoded by the *GRIA2* (or *GLUR2*) [gene](https://en.wikipedia.org/wiki/Gene) and it is a subunit found in the [AMPA receptors](https://en.wikipedia.org/wiki/AMPA_receptor)."
+    ],
+    "index": 2
+  },
+  {
+    "title": "Function",
+    "content": "[Glutamate receptors](https://en.wikipedia.org/wiki/Glutamate_receptor) are the predominant excitatory [neurotransmitter receptors](https://en.wikipedia.org/wiki/Neurotransmitter_receptor) in the [mammalian brain](https://en.wikipedia.org/wiki/Mammalian_brain) and are activated in a variety of normal neurophysiologic processes. This gene product belongs to a family of glutamate receptors that are sensitive to [AMPA](https://en.wikipedia.org/wiki/AMPA) (alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate), called [AMPA receptors](https://en.wikipedia.org/wiki/AMPA_receptor), and function as [ligand-activated cation channels](https://en.wikipedia.org/wiki/Ligand-gated_ion_channel#Ionotropic_glutamate_receptors). These channels are assembled from a combination of 4 subunits, encoded by 4 genes (*GRIA1-4*). The subunit encoded by this gene (*GRIA2*) is subject to [RNA editing](https://en.wikipedia.org/wiki/RNA_editing) which renders the receptor that it becomes part of impermeable to [calcium ions](https://en.wikipedia.org/wiki/Calcium_in_biology) (Ca<sup>2+</sup>). Human and animal studies suggest that the RNA editing is essential for normal brain function and defective RNA editing of this gene may be relevant to the etiology of [amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) (ALS). [Alternative splicing](https://en.wikipedia.org/wiki/Alternative_splicing), resulting in transcript variants encoding different [isoforms](https://en.wikipedia.org/wiki/Protein_isoform), has been noted for this gene, which includes the generation of flip and flop isoforms that vary in their [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction) properties.",
+    "level": 2,
+    "sentences": [
+      "[Glutamate receptors](https://en.wikipedia.org/wiki/Glutamate_receptor) are the predominant excitatory [neurotransmitter receptors](https://en.wikipedia.org/wiki/Neurotransmitter_receptor) in the [mammalian brain](https://en.wikipedia.org/wiki/Mammalian_brain) and are activated in a variety of normal neurophysiologic processes.",
+      "This gene product belongs to a family of glutamate receptors that are sensitive to [AMPA](https://en.wikipedia.org/wiki/AMPA) (alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate), called [AMPA receptors](https://en.wikipedia.org/wiki/AMPA_receptor), and function as [ligand-activated cation channels](https://en.wikipedia.org/wiki/Ligand-gated_ion_channel#Ionotropic_glutamate_receptors).",
+      "These channels are assembled from a combination of 4 subunits, encoded by 4 genes (*GRIA1-4*).",
+      "The subunit encoded by this gene (*GRIA2*) is subject to [RNA editing](https://en.wikipedia.org/wiki/RNA_editing) which renders the receptor that it becomes part of impermeable to [calcium ions](https://en.wikipedia.org/wiki/Calcium_in_biology) (Ca<sup>2+</sup>).",
+      "Human and animal studies suggest that the RNA editing is essential for normal brain function and defective RNA editing of this gene may be relevant to the etiology of [amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) (ALS).",
+      "[Alternative splicing](https://en.wikipedia.org/wiki/Alternative_splicing), resulting in transcript variants encoding different [isoforms](https://en.wikipedia.org/wiki/Protein_isoform), has been noted for this gene, which includes the generation of flip and flop isoforms that vary in their [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction) properties."
+    ],
+    "index": 3
+  },
+  {
+    "title": "Interactions",
+    "content": "GRIA2 has been shown to [interact](https://en.wikipedia.org/wiki/Protein-protein_interaction) with [SPTAN1](https://en.wikipedia.org/wiki/SPTAN1), [GRIP1](https://en.wikipedia.org/wiki/GRIP1) and [PICK1](https://en.wikipedia.org/wiki/PICK1).",
+    "level": 2,
+    "sentences": [
+      "GRIA2 has been shown to [interact](https://en.wikipedia.org/wiki/Protein-protein_interaction) with [SPTAN1](https://en.wikipedia.org/wiki/SPTAN1), [GRIP1](https://en.wikipedia.org/wiki/GRIP1) and [PICK1](https://en.wikipedia.org/wiki/PICK1)."
+    ],
+    "index": 4
+  },
+  {
+    "title": "RNA editing",
+    "content": "Several ion channels and neurotransmitter receptors pre-[mRNA](https://en.wikipedia.org/wiki/Messenger_RNA) as substrates for [ADAR](https://en.wikipedia.org/wiki/ADAR)s. This includes 5 subunits of the glutamate receptor ionotropic AMPA glutamate receptor subunits (Glur2, Glur3, Glur4) and [kainate receptor](https://en.wikipedia.org/wiki/Kainate_receptor) subunits (Glur5, Glur6). Glutamate-gated ion channels are made up of four subunits per channel, with each subunit contributing to the pore loop structure. The pore loop structure is related to that found in K<sup>+</sup> channels (e.g., human [Kv1.1](https://en.wikipedia.org/wiki/Kv1.1) channel). The human Kv1.1 channel pre mRNA is also subject to A to I RNA editing. The function of the glutamate receptors is in the mediation of fast neurotransmission to the brain. The diversity of the subunits is determined, as well as RNA splicing by RNA editing events of the individual subunits. This give rise to the necessarily high diversity of these receptors. Glur2 is a gene product of the pre-mRNA of the GRIA2 gene and subject to RNA editing.",
+    "level": 2,
+    "sentences": [
+      "Several ion channels and neurotransmitter receptors pre-[mRNA](https://en.wikipedia.org/wiki/Messenger_RNA) as substrates for [ADAR](https://en.wikipedia.org/wiki/ADAR)s.",
+      "This includes 5 subunits of the glutamate receptor ionotropic AMPA glutamate receptor subunits (Glur2, Glur3, Glur4) and [kainate receptor](https://en.wikipedia.org/wiki/Kainate_receptor) subunits (Glur5, Glur6).",
+      "Glutamate-gated ion channels are made up of four subunits per channel, with each subunit contributing to the pore loop structure.",
+      "The pore loop structure is related to that found in K<sup>+</sup> channels (e.g., human [Kv1.1](https://en.wikipedia.org/wiki/Kv1.1) channel).",
+      "The human Kv1.1 channel pre mRNA is also subject to A to I RNA editing.",
+      "The function of the glutamate receptors is in the mediation of fast neurotransmission to the brain.",
+      "The diversity of the subunits is determined, as well as RNA splicing by RNA editing events of the individual subunits.",
+      "This give rise to the necessarily high diversity of these receptors.",
+      "Glur2 is a gene product of the pre-mRNA of the GRIA2 gene and subject to RNA editing."
+    ],
+    "index": 5
+  },
+  {
+    "title": "Type",
+    "content": "The type of RNA editing that occurs in the pre-mRNA of GluR-2 is Adenosine-to-Inosine (A-to-I) editing. A-to-I RNA editing is catalyzed by a family of adenosine deaminases acting on RNA (ADARs) that specifically recognize adenosines within double-stranded regions of pre-mRNAs and deaminate them to inosine. Inosines are recognised as guanosine by the cells translational machinery. There are three members of the ADAR family ADARs 1-3, with ADAR1 and ADAR2 being the only enzymatically active members. ADAR3 is thought to have a regulatory role in the brain. ADAR1 and ADAR2 are widely expressed in tissues, while ADAR3 is restricted to the brain. The double-stranded regions of RNA are formed by base-pairing between residues in the close to region of the editing site, with residues usually in a neighboring intron, but can be an exonic sequence. The region that base pairs with the editing region is known as an Editing Complementary Sequence (ECS).\n\nADARs bind interact directly with the dsRNA substrate via their double-stranded RNA binding domains. If an editing site occurs within a coding sequence, it can result in a codon change. This can lead to translation of a protein isoform due to a change in its primary protein structure. Therefore, editing can also alter protein function. A-to-I editing occurs in a non coding RNA sequences such as introns, untranslated regions (UTRs), LINEs, SINEs (especially Alu repeats). The function of A to I editing in these regions is thought to involve creation of splice sites and retention of RNAs in the nucleus amongst others.",
+    "level": 3,
+    "sentences": [
+      "The type of RNA editing that occurs in the pre-mRNA of GluR-2 is Adenosine-to-Inosine (A-to-I) editing.",
+      "A-to-I RNA editing is catalyzed by a family of adenosine deaminases acting on RNA (ADARs) that specifically recognize adenosines within double-stranded regions of pre-mRNAs and deaminate them to inosine.",
+      "Inosines are recognised as guanosine by the cells translational machinery.",
+      "There are three members of the ADAR family ADARs 1-3, with ADAR1 and ADAR2 being the only enzymatically active members.",
+      "ADAR3 is thought to have a regulatory role in the brain.",
+      "ADAR1 and ADAR2 are widely expressed in tissues, while ADAR3 is restricted to the brain.",
+      "The double-stranded regions of RNA are formed by base-pairing between residues in the close to region of the editing site, with residues usually in a neighboring intron, but can be an exonic sequence.",
+      "The region that base pairs with the editing region is known as an Editing Complementary Sequence (ECS).",
+      "ADARs bind interact directly with the dsRNA substrate via their double-stranded RNA binding domains.",
+      "If an editing site occurs within a coding sequence, it can result in a codon change.",
+      "This can lead to translation of a protein isoform due to a change in its primary protein structure.",
+      "Therefore, editing can also alter protein function.",
+      "A-to-I editing occurs in a non coding RNA sequences such as introns, untranslated regions (UTRs), LINEs, SINEs (especially Alu repeats).",
+      "The function of A to I editing in these regions is thought to involve creation of splice sites and retention of RNAs in the nucleus amongst others."
+    ],
+    "index": 6
+  },
+  {
+    "title": "Location",
+    "content": "In the pre-mRNA of GluR-2 the editing site Q/R is found at amino acid  position 607. This location is in the pore loop region deep within the ion channel in the proteins membrane segment 2. Editing results in a change from a glutamine(Q) codon to an Arginine (R) codon. Editing at the R/G site, located at amino acid position 764 results in a codon change from arginine to glycine. \n\nAll editing in glutamate receptors occurs in double-stranded RNAs (dsRNAs), which form due to complementary base pairing between the region of the editing site within the exon and an ECS within an intron sequence.",
+    "level": 3,
+    "sentences": [
+      "In the pre-mRNA of GluR-2 the editing site Q/R is found at amino acid  position 607.",
+      "This location is in the pore loop region deep within the ion channel in the proteins membrane segment 2.",
+      "Editing results in a change from a glutamine(Q) codon to an Arginine (R) codon.",
+      "Editing at the R/G site, located at amino acid position 764 results in a codon change from arginine to glycine.",
+      "All editing in glutamate receptors occurs in double-stranded RNAs (dsRNAs), which form due to complementary base pairing between the region of the editing site within the exon and an ECS within an intron sequence."
+    ],
+    "index": 7
+  },
+  {
+    "title": "Regulation",
+    "content": "Editing occurs at the Q/R site at a frequency of 100% of GluR2 transcripts in the brain. It is the only known editing site to be edited at a frequency of 100%. However, some striatal and cortical neurons are edited less frequently. This has been suggested as a reason for the higher level of excitotoxicity of these particular neurons. The R/G site is developmentally regulated, being largely unedited in the embryonic brain with levels rising after birth.",
+    "level": 3,
+    "sentences": [
+      "Editing occurs at the Q/R site at a frequency of 100% of GluR2 transcripts in the brain.",
+      "It is the only known editing site to be edited at a frequency of 100%.",
+      "However, some striatal and cortical neurons are edited less frequently.",
+      "This has been suggested as a reason for the higher level of excitotoxicity of these particular neurons.",
+      "The R/G site is developmentally regulated, being largely unedited in the embryonic brain with levels rising after birth."
+    ],
+    "index": 8
+  },
+  {
+    "title": "Consequences",
+    "content": "",
+    "level": 3,
+    "sentences": [],
+    "index": 9
+  },
+  {
+    "title": "Structure",
+    "content": "Editing results in a codon change from a glutamine codon (CAG) to an arginine codon (CIG). Editing at R/G results in a codon change. The region of the editing site is known to be the region that controls divalent cation permeability. The other ionotropic AMPA glutamate receptors have a genomically encoded have a glutamine residue, while GluR2 has an arginine.",
+    "level": 4,
+    "sentences": [
+      "Editing results in a codon change from a glutamine codon (CAG) to an arginine codon (CIG).",
+      "Editing at R/G results in a codon change.",
+      "The region of the editing site is known to be the region that controls divalent cation permeability.",
+      "The other ionotropic AMPA glutamate receptors have a genomically encoded have a glutamine residue, while GluR2 has an arginine."
+    ],
+    "index": 10
+  },
+  {
+    "title": "Function",
+    "content": "RNA editing of the GluR-2 (GluR-B) pre-mRNA is the best-characterised example of A-to-I editing. Activated by L-Glutamate, a major excitatory neurotransmitter in vertebrates central nervous systems, it acts as an agonist at NMDA, AMPA, and kainate neurotransmitters. Activation results in neuronal cation entry (CA2+), causing membrane depolarisation required for the process of excitatory neurotransmission. The calcium permeability of these receptor channels is required for many important events in the CNS, including long-term potentiation.\n\nSince editing occurs in nearly 100% of transcripts and is necessary for life, it is often wondered why edited GluR-B is not genomically encoded instead of being derived by RNA editing. The answer is unknown.\n\nRNA editing at the Q/R site is thought to alter the permeability of the channel rendering it impermeable to Ca<sup>2+</sup>. The Q/R site also occurs in the Kainate receptors GluR5 and GluR6. Editing at the Q/R site determines the calcium permeability of the channel, with channels containing the edited form being less permeable to calcium. This differs from GluR6 where editing of the Q/R site may increase calcium permeability of the channel especially if the I/V and Y/C sites are also edited. Therefore, the main function of editing is therefore in regulation of electrophysiology of the channel.\n\nEditing in some striatal and cortical neurons is more likely to be subject to excitotoxicity, thought to be due to less than 100% editing of these particular neurons. Editing also has several other function effects. Editing alters the maturation and assembly of the channel, with the unedited form having a tendency to tetramerize and then is transported to the synapse. However, the edited version is assembled as a monomer and resides mainly in the [endoplasmic reticulum](https://en.wikipedia.org/wiki/Endoplasmic_reticulum). The arginine residue in the pore loop of GluR-2 receptor is thought to belong to a retention signal for the endoplasmic reticulum. Therefore, editing - since it occurs at 100% frequency - inhibits the availability of the channel at the synapse. This process occurs before assembly of the channels, thereby preventing glur-2-forming homeric channels, which could interfere with synaptic signalling.\n\nEditing also occurs at the R/G site. Editing at the R/G sites results in variation in the rate that the receptor recovers from desensitisation. Editing at these sites results in faster recovery time from desensitisation.",
+    "level": 4,
+    "sentences": [
+      "RNA editing of the GluR-2 (GluR-B) pre-mRNA is the best-characterised example of A-to-I editing.",
+      "Activated by L-Glutamate, a major excitatory neurotransmitter in vertebrates central nervous systems, it acts as an agonist at NMDA, AMPA, and kainate neurotransmitters.",
+      "Activation results in neuronal cation entry (CA2+), causing membrane depolarisation required for the process of excitatory neurotransmission.",
+      "The calcium permeability of these receptor channels is required for many important events in the CNS, including long-term potentiation.",
+      "Since editing occurs in nearly 100% of transcripts and is necessary for life, it is often wondered why edited GluR-B is not genomically encoded instead of being derived by RNA editing.",
+      "The answer is unknown.",
+      "RNA editing at the Q/R site is thought to alter the permeability of the channel rendering it impermeable to Ca<sup>2+</sup>.",
+      "The Q/R site also occurs in the Kainate receptors GluR5 and GluR6.",
+      "Editing at the Q/R site determines the calcium permeability of the channel, with channels containing the edited form being less permeable to calcium.",
+      "This differs from GluR6 where editing of the Q/R site may increase calcium permeability of the channel especially if the I/V and Y/C sites are also edited.",
+      "Therefore, the main function of editing is therefore in regulation of electrophysiology of the channel.",
+      "Editing in some striatal and cortical neurons is more likely to be subject to excitotoxicity, thought to be due to less than 100% editing of these particular neurons.",
+      "Editing also has several other function effects.",
+      "Editing alters the maturation and assembly of the channel, with the unedited form having a tendency to tetramerize and then is transported to the synapse.",
+      "However, the edited version is assembled as a monomer and resides mainly in the [endoplasmic reticulum](https://en.wikipedia.org/wiki/Endoplasmic_reticulum).",
+      "The arginine residue in the pore loop of GluR-2 receptor is thought to belong to a retention signal for the endoplasmic reticulum.",
+      "Therefore, editing - since it occurs at 100% frequency - inhibits the availability of the channel at the synapse.",
+      "This process occurs before assembly of the channels, thereby preventing glur-2-forming homeric channels, which could interfere with synaptic signalling.",
+      "Editing also occurs at the R/G site.",
+      "Editing at the R/G sites results in variation in the rate that the receptor recovers from desensitisation.",
+      "Editing at these sites results in faster recovery time from desensitisation."
+    ],
+    "index": 11
+  },
+  {
+    "title": "Dysregulation",
+    "content": "**Amyotrophic Lateral Sclerosis**\n\nMany human and animal studies have determined that RNA editing of the Q/R site in GluR2 pre-mRNA is necessary for normal brain function. Defective editing has been linked to several conditions such as [amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) (ALS). ALS effects 1 in 2000 people, usually fatal in 1\u20135 years, with onset in the majority of cases being sporadic and minority being familial. With these conditions motor neurons degenerate leading to eventual paralysis and respiratory failure. Glutamate excitotoxicity is known to contribute to the spread of the sporadic condition. Glutamate levels are increased up 40%, suggesting that activation of glutamate receptors could be the reason for this causing increase Ca influx and then neuronal death. Since decrease nor loss of editing at Q/R site would lead to increase in calcium permeability. In diseased motor neurons editing levels of Glur 2 (62-100%) at this site was discovered to be reduced.\n\nAbnormal editing is thought to be specific for this condition, as editing levels have not been found to be decreased in spinal and bulbar muscular atrophy. Q/R editing is not the only mechanism involved, as editing occurs only in spinal motor neurons not in upper spinal neurons. Also, it is unknown whether editing dysregulation is involved in the initiation of the condition, or whether it occurs during pathogenesis.\n\n**Epilepsy**\n\nIn mouse models, failure of editing leads to epileptic seizures and death within 3 weeks of birth. Why editing exists at this site instead of a genomically encoded arginine is unknown since nearly 100% of transcripts are edited.\n\n**Cancer**\n\nDecreased editing at the Q/R site is also found in some human brain tumors. Reduction of ADAR2 expression is thought to be associated with epileptic seizures in malignant glioma.",
+    "level": 4,
+    "sentences": [
+      "**Amyotrophic Lateral Sclerosis**\n\nMany human and animal studies have determined that RNA editing of the Q/R site in GluR2 pre-mRNA is necessary for normal brain function.",
+      "Defective editing has been linked to several conditions such as [amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) (ALS).",
+      "ALS effects 1 in 2000 people, usually fatal in 1\u20135 years, with onset in the majority of cases being sporadic and minority being familial.",
+      "With these conditions motor neurons degenerate leading to eventual paralysis and respiratory failure.",
+      "Glutamate excitotoxicity is known to contribute to the spread of the sporadic condition.",
+      "Glutamate levels are increased up 40%, suggesting that activation of glutamate receptors could be the reason for this causing increase Ca influx and then neuronal death.",
+      "Since decrease nor loss of editing at Q/R site would lead to increase in calcium permeability.",
+      "In diseased motor neurons editing levels of Glur 2 (62-100%) at this site was discovered to be reduced.",
+      "Abnormal editing is thought to be specific for this condition, as editing levels have not been found to be decreased in spinal and bulbar muscular atrophy.",
+      "Q/R editing is not the only mechanism involved, as editing occurs only in spinal motor neurons not in upper spinal neurons.",
+      "Also, it is unknown whether editing dysregulation is involved in the initiation of the condition, or whether it occurs during pathogenesis.",
+      "**Epilepsy**\n\nIn mouse models, failure of editing leads to epileptic seizures and death within 3 weeks of birth.",
+      "Why editing exists at this site instead of a genomically encoded arginine is unknown since nearly 100% of transcripts are edited.",
+      "**Cancer**\n\nDecreased editing at the Q/R site is also found in some human brain tumors.",
+      "Reduction of ADAR2 expression is thought to be associated with epileptic seizures in malignant glioma."
+    ],
+    "index": 12
+  },
+  {
+    "title": "Use in diagnostic immunochemistry",
+    "content": "GRIA2 is a diagnostic immunochemical marker for [solitary fibrous tumour](https://en.wikipedia.org/wiki/Solitary_fibrous_tumour) (SFT), distinguishing it from most mimics. Among other [CD34](https://en.wikipedia.org/wiki/CD34)-positive tumours, GRIA2 is also expressed in [dermatofibrosarcoma protuberans](https://en.wikipedia.org/wiki/Dermatofibrosarcoma_protuberans) (DFSP); however, clinical and histologic features aid in their distinction. GRIA2 shows a limited distribution in other soft tissue tumours.",
+    "level": 2,
+    "sentences": [
+      "GRIA2 is a diagnostic immunochemical marker for [solitary fibrous tumour](https://en.wikipedia.org/wiki/Solitary_fibrous_tumour) (SFT), distinguishing it from most mimics.",
+      "Among other [CD34](https://en.wikipedia.org/wiki/CD34)-positive tumours, GRIA2 is also expressed in [dermatofibrosarcoma protuberans](https://en.wikipedia.org/wiki/Dermatofibrosarcoma_protuberans) (DFSP); however, clinical and histologic features aid in their distinction.",
+      "GRIA2 shows a limited distribution in other soft tissue tumours."
+    ],
+    "index": 13
+  }
+]

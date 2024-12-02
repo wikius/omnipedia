@@ -1,0 +1,215 @@
+{
+  "sections": [
+    {
+      "index": 2,
+      "title": "Lead",
+      "sentence_evaluations": [],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R25",
+          "requirement_category": "Structure",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Defines the article's scope in the lead section.",
+          "reasoning": "The first sentence clearly defines Adenine phosphoribosyltransferase as an enzyme encoded by the APRT gene in humans.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The lead section starts with a comprehensive definition of the protein and its genetic encoding.",
+          "reasoning_detail": "Fully meets the requirement by clearly defining the scope."
+        },
+        {
+          "requirement_id": "R34",
+          "requirement_category": "Structure",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Requires linking the article to a Wikidata item in the lead section.",
+          "reasoning": "No Wikidata linkage is present for the entity mentioned in the lead.",
+          "score": 0.0,
+          "confidence": 0.9,
+          "evidence": "There is no visible link to a Wikidata item for Adenine phosphoribosyltransferase in the lead section.",
+          "reasoning_detail": "Does not meet the requirement of linking to a Wikidata item."
+        }
+      ],
+      "meta_notes": "The lead section defines the article's scope but does not include a Wikidata link for the entity mentioned."
+    },
+    {
+      "index": 3,
+      "title": "Function",
+      "sentence_evaluations": [],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R30",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Describes the function of the APRTase protein in the Function section.",
+          "reasoning": "The section provides a detailed explanation of APRTase's role in the nucleotide salvage pathway and its significance in different organisms.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Comprehensive description of APRTase's catalytic activity, involvement in metabolic pathways, and its importance in various biological contexts.",
+          "reasoning_detail": "Fully meets the requirement by thoroughly describing the protein's function."
+        }
+      ],
+      "meta_notes": ""
+    },
+    {
+      "index": 4,
+      "title": "Structure",
+      "sentence_evaluations": [],
+      "requirement_evaluations": [],
+      "meta_notes": ""
+    },
+    {
+      "index": 5,
+      "title": "Mechanism",
+      "sentence_evaluations": [],
+      "requirement_evaluations": [],
+      "meta_notes": ""
+    },
+    {
+      "index": 6,
+      "title": "Deficiency",
+      "sentence_evaluations": [],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R32",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Lists diseases related to APRTase deficiency in the Deficiency section.",
+          "reasoning": "The section details how APRTase deficiency leads to kidney stones and potential kidney failure.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Explicit mention of urolithiasis and kidney failure as consequences of APRTase deficiency.",
+          "reasoning_detail": "Fully meets the requirement by listing relevant diseases and conditions."
+        }
+      ],
+      "meta_notes": ""
+    }
+  ],
+  "article_evaluation": {
+    "requirement_evaluations": [
+      {
+        "requirement_id": "R1",
+        "requirement_category": "Content",
+        "classification": "Content",
+        "applicable": true,
+        "applicability_reasoning": "The article covers the human gene and its orthologs in other species.",
+        "reasoning": "Includes information about APRTase in humans and parasitic protozoa like giardia.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Comprehensive coverage of the gene/protein in multiple species.",
+        "reasoning_detail": "Fully adheres to the scope requirement."
+      },
+      {
+        "requirement_id": "R5",
+        "requirement_category": "Language Usage",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Uses italics for gene abbreviations and full names throughout the article.",
+        "reasoning": "Gene symbols such as *APRT* are correctly italicized.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Consistent italicization of gene names in all relevant sections.",
+        "reasoning_detail": "Fully meets the italicization requirement."
+      },
+      {
+        "requirement_id": "R6",
+        "requirement_category": "Naming",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "Uses abbreviations for gene names instead of full names.",
+        "reasoning": "The article consistently uses *APRT* and APRTase instead of longer gene names.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Abbreviated gene symbols are used appropriately throughout the text.",
+        "reasoning_detail": "Meets the best practice of using abbreviations."
+      },
+      {
+        "requirement_id": "R7",
+        "requirement_category": "Language Usage",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Writes human gene names in all capitals and orthologs with only the initial letter capitalized.",
+        "reasoning": "Human gene *APRT* is in all caps, while orthologs like those in giardia are not explicitly mentioned but adhere to capitalization rules.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Correct capitalization of human gene symbols and appropriate treatment of orthologs.",
+        "reasoning_detail": "Fully complies with capitalization standards."
+      },
+      {
+        "requirement_id": "R8",
+        "requirement_category": "Language Usage",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "Uses gene symbols in a recommended and non-redundant manner.",
+        "reasoning": "The article avoids redundant phrases and uses gene symbols appropriately.",
+        "score": 1.0,
+        "confidence": 0.85,
+        "evidence": "Examples like 'encoded by the *APRT* gene' demonstrate proper usage.",
+        "reasoning_detail": "Meets best practices for clear expression of gene symbols."
+      },
+      {
+        "requirement_id": "R9",
+        "requirement_category": "Naming",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "Uses the recommended UniProt protein name as the article title.",
+        "reasoning": "The article is titled 'APRT', which aligns with the UniProt name for the protein.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Consistent use of 'APRT' aligns with standard naming conventions.",
+        "reasoning_detail": "Fully adheres to using the recommended UniProt protein name."
+      },
+      {
+        "requirement_id": "R15",
+        "requirement_category": "Infoboxes",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "The article discusses a gene/protein with a human genome ortholog but does not include the required Infobox GNF protein.",
+        "reasoning": "Missing Infobox GNF protein despite the presence of a human ortholog.",
+        "score": 0.0,
+        "confidence": 0.95,
+        "evidence": "No Infobox GNF protein is present at the top of the article.",
+        "reasoning_detail": "Fails to include the necessary Infobox, which is mandatory."
+      },
+      {
+        "requirement_id": "R26",
+        "requirement_category": "Content",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "Uses the recommended UniProt name and HUGO gene symbol in the lead section.",
+        "reasoning": "The lead section mentions APRTase and the *APRT* gene symbol appropriately.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Correct usage of UniProt name 'APRTase' and HUGO gene symbol '*APRT*' in the lead.",
+        "reasoning_detail": "Fully adheres to the best practices for naming conventions in the lead."
+      },
+      {
+        "requirement_id": "R29",
+        "requirement_category": "Content",
+        "classification": "Flexible Guidelines",
+        "applicable": true,
+        "applicability_reasoning": "Provides some details on species distribution but lacks comprehensive information on tissue and subcellular distribution.",
+        "reasoning": "The article mentions expression in humans and protozoa but does not detail tissue-specific or subcellular localization.",
+        "score": 0.75,
+        "confidence": 0.85,
+        "evidence": "Species distribution is covered, but tissue and subcellular details are minimal.",
+        "reasoning_detail": "Partially meets the requirement with room for improvement in distribution details."
+      },
+      {
+        "requirement_id": "R33",
+        "requirement_category": "Structure",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "Mentions historical information about APRTase deficiency but does not specify key discoverers.",
+        "reasoning": "The Deficiency section notes the first diagnosis in the UK but lacks names of individuals involved in key discoveries.",
+        "score": 0.75,
+        "confidence": 0.8,
+        "evidence": "Provides historical timeline without naming contributors.",
+        "reasoning_detail": "Partially meets the requirement by including some history, but lacks detailed attribution."
+      }
+    ],
+    "meta_notes": "Overall, the article adheres to most of the mandatory standards and best practices. However, it is missing the required Infobox GNF protein and lacks comprehensive details on tissue and subcellular distribution as well as specific historical contributors."
+  }
+}

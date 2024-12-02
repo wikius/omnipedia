@@ -1,0 +1,1015 @@
+{
+  "sections": [
+    {
+      "index": 0,
+      "title": "ABCC11",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "**ATP-binding cassette transporter sub-family C member 11**, also **MRP8** (*Multidrug Resistance-Related Protein 8*), is a [membrane transporter](https://en.wikipedia.org/wiki/Membrane_transport_protein) that exports certain molecules from inside a cell.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R25",
+              "requirement_category": "Structure",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applicable because it is the first sentence of the lead section defining the article scope.",
+              "reasoning": "The first sentence defines ABCC11 as a membrane transporter in humans.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "The sentence clearly defines the protein and its human encoding gene.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": false,
+              "applicability_reasoning": "Gene abbreviations are not present in this sentence.",
+              "reasoning": "No gene abbreviations used in this sentence.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "No gene abbreviations to format.",
+              "reasoning_detail": "Not applicable; no formatting required."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "MRP8 is an abbreviation used for the protein.",
+              "reasoning": "Uses the abbreviation MRP8 instead of the full name.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "MRP8 is correctly used as an abbreviation.",
+              "reasoning_detail": "Fully adheres to the best practice of using abbreviations."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "It is a [protein](https://en.wikipedia.org/wiki/Protein) that in humans is encoded by [gene](https://en.wikipedia.org/wiki/Gene) *ABCC11*.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviation is used and should be italicized.",
+              "reasoning": "The gene symbol *ABCC11* is correctly italicized.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol *ABCC11* is properly formatted in italics.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R6",
+              "requirement_category": "Naming",
+              "classification": "Best Practices",
+              "applicable": true,
+              "applicability_reasoning": "Uses the abbreviation ABCC11 for the gene name.",
+              "reasoning": "The abbreviation ABCC11 is used instead of the full gene name.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "ABCC11 is correctly used as the gene abbreviation.",
+              "reasoning_detail": "Fully adheres to the best practice of using abbreviations."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names should be in capitals.",
+              "reasoning": "ABCC11 is written in all capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol ABCC11 is correctly capitalized.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "The gene is responsible for determination of human [cerumen](https://en.wikipedia.org/wiki/Earwax) type (wet or dry ear wax) and presence of underarm [osmidrosis](https://en.wikipedia.org/wiki/Osmidrosis) (odor associated with [sweat](https://en.wikipedia.org/wiki/Perspiration) caused by [apocrine](https://en.wikipedia.org/wiki/Apocrine_gland) secretion), and is associated with [colostrum](https://en.wikipedia.org/wiki/Colostrum) secretion.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [],
+      "meta_notes": "Consider including information about orthologs in other species to fully adhere to the gene nomenclature guidelines."
+    },
+    {
+      "index": 1,
+      "title": "Function",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "The protein encoded by this gene is a member of the superfamily of [ATP-binding cassette](https://en.wikipedia.org/wiki/ATP-binding_cassette_transporter) (ABC) transporters.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "ABC proteins transport various molecules across extra- and intra-cellular membranes.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "ABC genes are divided into seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20, White).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "The ABCC11 transporter is a member of the MRP subfamily which is involved in multi-drug resistance.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "The product of this gene participates in physiological processes involving bile acids, conjugated steroids, and cyclic nucleotides.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "In addition, a [single nucleotide polymorphism](https://en.wikipedia.org/wiki/Single_nucleotide_polymorphism) (SNP) in this gene is responsible for determination of human [earwax](https://en.wikipedia.org/wiki/Earwax) type and presence of underarm odour.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 6,
+          "sentence": "This gene and family member [ABCC12](https://en.wikipedia.org/wiki/ABCC12) are determined to be derived by duplication and are both localized to chromosome 16q12.1.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 7,
+          "sentence": "Multiple alternatively spliced transcript variants have been described for this gene.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R30",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the Function section must describe the function of the transcribed protein.",
+          "reasoning": "The Function section provides a comprehensive description of the protein's role and activities.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "Detailed explanation of the protein's functions and involvement in physiological processes.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": ""
+    },
+    {
+      "index": 2,
+      "title": "Molecular genetics",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "The *ABCC11* [gene](https://en.wikipedia.org/wiki/Gene) is present in the [human genome](https://en.wikipedia.org/wiki/Human_genome) as two [alleles](https://en.wikipedia.org/wiki/Allele), differing in one [nucleotide](https://en.wikipedia.org/wiki/Nucleotide) also known as a [single nucleotide polymorphism (SNP)](https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviation is used and should be italicized.",
+              "reasoning": "The gene symbol *ABCC11* is correctly italicized.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol *ABCC11* is properly formatted in italics.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names should be in capitals.",
+              "reasoning": "ABCC11 is written in all capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol ABCC11 is correctly capitalized.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "A SNP in the *ABCC11* gene on [chromosome 16](https://en.wikipedia.org/wiki/Chromosome_16_(human)) at [base](https://en.wikipedia.org/wiki/Nucleobase) position 538 of either a [guanine](https://en.wikipedia.org/wiki/Guanine) or [adenine](https://en.wikipedia.org/wiki/Adenine) determines two distinct groups of [phenotypes](https://en.wikipedia.org/wiki/Phenotype).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviation is used and should be italicized.",
+              "reasoning": "The gene symbol *ABCC11* is correctly italicized.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol *ABCC11* is properly formatted in italics.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names should be in capitals.",
+              "reasoning": "ABCC11 is written in all capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol ABCC11 is correctly capitalized.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "These respectively code for [glycine](https://en.wikipedia.org/wiki/Glycine) and [arginine](https://en.wikipedia.org/wiki/Arginine) in the gene's [protein](https://en.wikipedia.org/wiki/Protein) product.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "[Dominant inheritance](https://en.wikipedia.org/wiki/Dominant_inheritance) of the GG or GA [genotype](https://en.wikipedia.org/wiki/Genotype) is observed while the AA genotype is recessive.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "The phenotypes expressed by the genotypes include [cerumen](https://en.wikipedia.org/wiki/Earwax) type (wet or dry ear wax), [osmidrosis](https://en.wikipedia.org/wiki/Osmidrosis) (odor associated with [sweat](https://en.wikipedia.org/wiki/Perspiration) caused by excessive [apocrine](https://en.wikipedia.org/wiki/Apocrine_gland) secretion), and possibly [breast cancer](https://en.wikipedia.org/wiki/Breast_cancer) risk, although there is ongoing debate on whether there is a real correlation of the wet ear wax phenotype to breast cancer susceptibility.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "The GG or GA genotype produces the wet ear wax phenotype (sticky and brown colored) and acrid sweat odor and is the dominant allele.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 6,
+          "sentence": "Note this phenotype requires only the presence of one guanine.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 7,
+          "sentence": "The [homozygous](https://en.wikipedia.org/wiki/Homozygous) recessive AA genotype produces the dry ear wax phenotype (dry and flaky) and mildly odored sweat.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 8,
+          "sentence": "The alleles containing a guanine produce a protein that is [glycosylated](https://en.wikipedia.org/wiki/Glycosylation) but alleles containing an adenine are not glycosylated.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 9,
+          "sentence": "The resulting protein is only partially degraded by [proteasomes](https://en.wikipedia.org/wiki/Proteasome).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 10,
+          "sentence": "This effect is localized to [ceruminous gland](https://en.wikipedia.org/wiki/Cerumen) membranes.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 11,
+          "sentence": "Because the adenine containing allele protein product is only partially degraded, the remaining functional protein is located on the cell surface membrane which *ABCC11* gene's role in sweat odor is likely in part due to the quantitative dosage of ABCC11 protein.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviation is used and should be italicized.",
+              "reasoning": "The gene symbol *ABCC11* is correctly italicized.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol *ABCC11* is properly formatted in italics.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names should be in capitals.",
+              "reasoning": "ABCC11 is written in all capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol ABCC11 is correctly capitalized.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 12,
+          "sentence": "From an [evolutionary](https://en.wikipedia.org/wiki/Evolution) perspective, the implications of cerumen type on [fitness](https://en.wikipedia.org/wiki/Fitness_(biology)) are unknown.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 13,
+          "sentence": "However, odorless sweat in ancient Northern [Eurasian](https://en.wikipedia.org/wiki/Eurasia) populations has been postulated to have an [adaptive](https://en.wikipedia.org/wiki/Adaptation) advantage for cold weather.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 14,
+          "sentence": "In some nonhuman [mammals](https://en.wikipedia.org/wiki/Mammal), [mating](https://en.wikipedia.org/wiki/Mating) signals via release of an odor enhanced by increased apocrine secretion may be a factor in [sexual selection](https://en.wikipedia.org/wiki/Sexual_selection).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 15,
+          "sentence": "Physical [human](https://en.wikipedia.org/wiki/Human) traits that are controlled by a single gene are [uncommon](https://en.wikipedia.org/wiki/Human_genetics#Human_traits_with_simple_inheritance_patterns).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 16,
+          "sentence": "Most human characteristics are controlled by multiple genes ([polygenes](https://en.wikipedia.org/wiki/Quantitative_trait_loci)); *ABCC11* is a peculiar example of a gene with unambiguous phenotypes that is controlled by a SNP.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviation is used and should be italicized.",
+              "reasoning": "The gene symbol *ABCC11* is correctly italicized.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol *ABCC11* is properly formatted in italics.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names should be in capitals.",
+              "reasoning": "ABCC11 is written in all capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol ABCC11 is correctly capitalized.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 17,
+          "sentence": "Additionally, it is considered a [pleiotropic](https://en.wikipedia.org/wiki/Pleiotropy) gene.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [],
+      "meta_notes": ""
+    },
+    {
+      "index": 3,
+      "title": "Demographics",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "The history of the migration of humans can be traced back using the *ABCC11* gene alleles.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviation is used and should be italicized.",
+              "reasoning": "The gene symbol *ABCC11* is correctly italicized.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol *ABCC11* is properly formatted in italics.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names should be in capitals.",
+              "reasoning": "ABCC11 is written in all capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol ABCC11 is correctly capitalized.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 1,
+          "sentence": "The variation between ear wax in [ethnicities](https://en.wikipedia.org/wiki/Ethnic_group) around the world are specifically due to the *ABCC11* gene alleles.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviation is used and should be italicized.",
+              "reasoning": "The gene symbol *ABCC11* is correctly italicized.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol *ABCC11* is properly formatted in italics.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names should be in capitals.",
+              "reasoning": "ABCC11 is written in all capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol ABCC11 is correctly capitalized.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "It is believed that the derived allele originated in an ancient [East Asian](https://en.wikipedia.org/wiki/East_Asia) population.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 3,
+          "sentence": "The gene may have spread as a result of it being a beneficial [adaption](https://en.wikipedia.org/wiki/Adaptation) or through an evolutionary neutral [mutation](https://en.wikipedia.org/wiki/Mutation) mechanism that went through [genetic drift](https://en.wikipedia.org/wiki/Genetic_drift) events, or through sexual selection.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 4,
+          "sentence": "An analysis of [ancient DNA](https://en.wikipedia.org/wiki/Ancient_DNA) of [Eastern Hunter Gatherers](https://en.wikipedia.org/wiki/Eastern_Hunter-Gatherers), [Scandinavian Hunter Gatherers](https://en.wikipedia.org/wiki/Scandinavian_Hunter-Gatherers), [Western Hunter Gatherers](https://en.wikipedia.org/wiki/Western_Hunter-Gatherers) and [Early European Farmers](https://en.wikipedia.org/wiki/Early_European_Farmers) found that the derived allele of ABCC11 associated with dry earwax and reduced body odor was absent in all European hunter gatherers, except for a [Western Hunter Gatherer](https://en.wikipedia.org/wiki/Western_Hunter-Gatherers) from [Mesolithic](https://en.wikipedia.org/wiki/Mesolithic) central Europe.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names should be in capitals.",
+              "reasoning": "ABCC11 is written in all capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol ABCC11 is correctly capitalized.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "The derived allele was absent in the paleolithic hunter gatherer [Kostenki 14](https://en.wikipedia.org/wiki/Kostyonki%E2%80%93Borshchyovo#Human_remains), who is deeply related to [Ancient North Eurasians](https://en.wikipedia.org/wiki/Ancient_North_Eurasians).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 6,
+          "sentence": "The frequency of alleles for dry ear wax is most concentrated in [East Asia](https://en.wikipedia.org/wiki/East_Asia); most notably [China](https://en.wikipedia.org/wiki/China), [Japan](https://en.wikipedia.org/wiki/Japan), [Korea](https://en.wikipedia.org/wiki/Korea), and [Mongolia](https://en.wikipedia.org/wiki/Mongolia).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 7,
+          "sentence": "The allele frequency is highest among the northern [Han Chinese](https://en.wikipedia.org/wiki/Han_Chinese) and [Koreans](https://en.wikipedia.org/wiki/Koreans); followed by [Mongols](https://en.wikipedia.org/wiki/Mongolia), southern Han Chinese, and [Yamato Japanese](https://en.wikipedia.org/wiki/Yamato_people), respectively.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 8,
+          "sentence": "The frequency is low among the [Ryukyuan](https://en.wikipedia.org/wiki/Ryukyuans) and [Ainu](https://en.wikipedia.org/wiki/Ainu_people).",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 9,
+          "sentence": "The derived allele is not rare in [South Asia](https://en.wikipedia.org/wiki/South_Asia), with 54% of [Dravidian](https://en.wikipedia.org/wiki/Dravidian_people) people from [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu) carrying an AA genotype.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 10,
+          "sentence": "A downward gradient of dry ear wax allele phenotypes can be drawn from northern China to southern Asia and an east–west gradient can also be drawn from eastern Siberia to western Europe.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 11,
+          "sentence": "The [allele frequencies](https://en.wikipedia.org/wiki/Allele_frequency) within ethnicities continued to be maintained because the *ABCC11* gene is inherited as a [haplotype](https://en.wikipedia.org/wiki/Haplotype), a group of genes or alleles that tend to be inherited as a single unit.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviation is used and should be italicized.",
+              "reasoning": "The gene symbol *ABCC11* is correctly italicized.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol *ABCC11* is properly formatted in italics.",
+              "reasoning_detail": "Fully meets the requirement."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names should be in capitals.",
+              "reasoning": "ABCC11 is written in all capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol ABCC11 is correctly capitalized.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 12,
+          "sentence": "The amount of [volatile organic compounds](https://en.wikipedia.org/wiki/Volatile_organic_compound) (VOCs) in ear wax was found to be related to variation in ABCC11 [genotype](https://en.wikipedia.org/wiki/Genotype), which in turn is dependent on ethnic origin.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names should be in capitals.",
+              "reasoning": "ABCC11 is written in all capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Gene symbol ABCC11 is correctly capitalized.",
+              "reasoning_detail": "Fully meets the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 13,
+          "sentence": "In particular, the rs17822931 genotype, which is especially prevalent in East Asians, is correlated with lower VOC levels.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        },
+        {
+          "index": 14,
+          "sentence": "However, VOC levels were not found to vary significantly qualitatively nor quantitatively for most organic compounds by racial group after [Bonferroni corrections](https://en.wikipedia.org/wiki/Bonferroni_correction), suggesting that it does not result in ethnic differences.",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [],
+      "meta_notes": ""
+    },
+    {
+      "index": 4,
+      "title": "See also",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "- [ATP-binding cassette transporter](https://en.wikipedia.org/wiki/ATP-binding_cassette_transporter)\n- [Body odor](https://en.wikipedia.org/wiki/Body_odor)",
+          "requirement_evaluations": [],
+          "meta_notes": ""
+        }
+      ],
+      "requirement_evaluations": [],
+      "meta_notes": ""
+    }
+  ],
+  "article_evaluation": {
+    "requirement_evaluations": [
+      {
+        "requirement_id": "R1",
+        "requirement_category": "Content",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Must include human genes/proteins and orthologs in other species within the scope of the article.",
+        "reasoning": "The article includes information about the human gene/protein ABCC11 but does not mention orthologs in other species.",
+        "score": 0.25,
+        "confidence": 0.9,
+        "evidence": "No mention of orthologs in other species.",
+        "reasoning_detail": "Minimal adherence; orthologs are missing."
+      },
+      {
+        "requirement_id": "R2",
+        "requirement_category": "Content",
+        "classification": "Contextual Considerations",
+        "applicable": true,
+        "applicability_reasoning": "Applicable if there are paralogs in humans.",
+        "reasoning": "The article mentions ABCC12 as a family member, indicating the presence of paralogs.",
+        "score": 1.0,
+        "confidence": 0.85,
+        "evidence": "ABCC12 is mentioned as a family member derived by duplication.",
+        "reasoning_detail": "Appropriately considers creating a gene family article."
+      },
+      {
+        "requirement_id": "R3",
+        "requirement_category": "Content",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Applies to the article's prose to avoid listing authors' qualifications.",
+        "reasoning": "The article does not list authors' qualifications; it focuses on findings.",
+        "score": 1.0,
+        "confidence": 1.0,
+        "evidence": "No instances of listing authors' qualifications found.",
+        "reasoning_detail": "Fully meets the requirement."
+      },
+      {
+        "requirement_id": "R4",
+        "requirement_category": "Content",
+        "classification": "Best Practices",
+        "applicable": false,
+        "applicability_reasoning": "No notable contributions or discoverers mentioned.",
+        "reasoning": "No specific historical discoveries or contributors are listed.",
+        "score": 1.0,
+        "confidence": 0.8,
+        "evidence": "Absence of discovery/history section details.",
+        "reasoning_detail": "Not applicable as there are no notable contributions to mention."
+      },
+      {
+        "requirement_id": "R5",
+        "requirement_category": "Language Usage",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Gene names and abbreviations are used throughout the article.",
+        "reasoning": "All gene symbols are correctly italicized and formatted.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Gene symbols like *ABCC11* are properly italicized.",
+        "reasoning_detail": "Fully meets the requirement."
+      },
+      {
+        "requirement_id": "R6",
+        "requirement_category": "Naming",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "Abbreviations are used instead of full gene names where appropriate.",
+        "reasoning": "Abbreviations like MRP8 are used effectively.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "MRP8 is correctly used as an abbreviation for the protein.",
+        "reasoning_detail": "Fully adheres to the best practice of using abbreviations."
+      },
+      {
+        "requirement_id": "R7",
+        "requirement_category": "Language Usage",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Human gene names are used and should be in capitals.",
+        "reasoning": "All human gene names like ABCC11 are correctly capitalized.",
+        "score": 1.0,
+        "confidence": 1.0,
+        "evidence": "Gene symbols are in all capitals as required.",
+        "reasoning_detail": "Fully meets the requirement."
+      },
+      {
+        "requirement_id": "R8",
+        "requirement_category": "Language Usage",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "Gene symbols are used appropriately for clear expression.",
+        "reasoning": "Gene symbols are used in recommended formats without redundancy.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Examples like \"the ABCC11 gene is responsible...\" are correctly formatted.",
+        "reasoning_detail": "Fully adheres to the recommended usage of gene symbols."
+      },
+      {
+        "requirement_id": "R9",
+        "requirement_category": "Content",
+        "classification": "Best Practices",
+        "applicable": false,
+        "applicability_reasoning": "Article title is not evaluated within the content sections.",
+        "reasoning": "Title naming conventions are not addressed in the current evaluation.",
+        "score": 1.0,
+        "confidence": 0.7,
+        "evidence": "No information about the article title provided.",
+        "reasoning_detail": "Not applicable in the current context."
+      },
+      {
+        "requirement_id": "R10",
+        "requirement_category": "Content",
+        "classification": "Best Practices",
+        "applicable": false,
+        "applicability_reasoning": "Article title is not evaluated within the content sections.",
+        "reasoning": "Title naming conventions are not addressed in the current evaluation.",
+        "score": 1.0,
+        "confidence": 0.7,
+        "evidence": "No information about the article title provided.",
+        "reasoning_detail": "Not applicable in the current context."
+      },
+      {
+        "requirement_id": "R11",
+        "requirement_category": "Naming",
+        "classification": "Best Practices",
+        "applicable": false,
+        "applicability_reasoning": "No protein family members enumerated with dashes and numbers.",
+        "reasoning": "No examples like \"desmoglein-1\" present.",
+        "score": 1.0,
+        "confidence": 0.8,
+        "evidence": "No protein family enumeration detected.",
+        "reasoning_detail": "Not applicable as no protein family enumeration is present."
+      },
+      {
+        "requirement_id": "R12",
+        "requirement_category": "Naming",
+        "classification": "Best Practices",
+        "applicable": false,
+        "applicability_reasoning": "The article does not discuss viral proteins.",
+        "reasoning": "No viral protein articles present.",
+        "score": 1.0,
+        "confidence": 0.8,
+        "evidence": "No mention of viral proteins.",
+        "reasoning_detail": "Not applicable as the article does not cover viral proteins."
+      },
+      {
+        "requirement_id": "R13",
+        "requirement_category": "Formatting",
+        "classification": "Imperative Standards",
+        "applicable": false,
+        "applicability_reasoning": "No diagrams included in the article.",
+        "reasoning": "No diagrams to adhere to standard formatting.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Absence of diagrams in the article.",
+        "reasoning_detail": "Not applicable as there are no diagrams to format."
+      },
+      {
+        "requirement_id": "R14",
+        "requirement_category": "Formatting",
+        "classification": "Best Practices",
+        "applicable": false,
+        "applicability_reasoning": "No diagrams present to suggest expansions.",
+        "reasoning": "No diagrams to evaluate formatting sufficiency.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Absence of diagrams in the article.",
+        "reasoning_detail": "Not applicable as there are no diagrams to format."
+      },
+      {
+        "requirement_id": "R15",
+        "requirement_category": "Infoboxes",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "The article discusses a human gene/protein with orthologs.",
+        "reasoning": "An Infobox GNF protein is required but not present.",
+        "score": 0.0,
+        "confidence": 0.9,
+        "evidence": "No Infobox GNF protein included at the top of the article.",
+        "reasoning_detail": "Does not meet the imperative standard for including the appropriate infobox."
+      },
+      {
+        "requirement_id": "R16",
+        "requirement_category": "Infoboxes",
+        "classification": "Imperative Standards",
+        "applicable": false,
+        "applicability_reasoning": "The article does not discuss multiple proteins in a family.",
+        "reasoning": "No need for Infobox protein as only one protein is discussed.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Single protein focus does not require an Infobox protein.",
+        "reasoning_detail": "Not applicable as multiple proteins are not discussed."
+      },
+      {
+        "requirement_id": "R17",
+        "requirement_category": "Infoboxes",
+        "classification": "Imperative Standards",
+        "applicable": false,
+        "applicability_reasoning": "The protein has a human ortholog.",
+        "reasoning": "Infobox GNF protein is required instead of Infobox nonhuman protein.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Protein has a human ortholog; thus, Infobox nonhuman protein is not applicable.",
+        "reasoning_detail": "Correctly omits Infobox nonhuman protein."
+      },
+      {
+        "requirement_id": "R18",
+        "requirement_category": "Infoboxes",
+        "classification": "Imperative Standards",
+        "applicable": false,
+        "applicability_reasoning": "The article does not discuss protein families listed in Pfam.",
+        "reasoning": "No mention of Pfam protein families.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Absence of Pfam family discussions.",
+        "reasoning_detail": "Not applicable as the article does not cover Pfam protein families."
+      },
+      {
+        "requirement_id": "R19",
+        "requirement_category": "Infoboxes",
+        "classification": "Imperative Standards",
+        "applicable": false,
+        "applicability_reasoning": "The article does not discuss RNA families listed in Rfam.",
+        "reasoning": "No mention of Rfam RNA families.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Absence of Rfam RNA family discussions.",
+        "reasoning_detail": "Not applicable as the article does not cover Rfam RNA families."
+      },
+      {
+        "requirement_id": "R20",
+        "requirement_category": "Infoboxes",
+        "classification": "Imperative Standards",
+        "applicable": false,
+        "applicability_reasoning": "The article does not discuss enzymes categorized by EC number.",
+        "reasoning": "No mention of EC numbers related to enzymes.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Absence of enzyme categorization by EC numbers.",
+        "reasoning_detail": "Not applicable as the article does not cover EC-numbered enzymes."
+      },
+      {
+        "requirement_id": "R21",
+        "requirement_category": "Infoboxes",
+        "classification": "Contextual Considerations",
+        "applicable": false,
+        "applicability_reasoning": "Multiple human paralogs are discussed.",
+        "reasoning": "Only one paralog (ABCC12) is mentioned; no enzyme infobox necessary.",
+        "score": 1.0,
+        "confidence": 0.8,
+        "evidence": "ABCC12 is mentioned but enzyme infobox is not required.",
+        "reasoning_detail": "Context does not warrant adding an enzyme infobox."
+      },
+      {
+        "requirement_id": "R22",
+        "requirement_category": "Infoboxes",
+        "classification": "Contextual Considerations",
+        "applicable": false,
+        "applicability_reasoning": "Only one human paralog is assigned to the Pfam family.",
+        "reasoning": "No need to include a protein family infobox as only ABCC11 is discussed.",
+        "score": 1.0,
+        "confidence": 0.8,
+        "evidence": "Single protein focus does not require a protein family infobox.",
+        "reasoning_detail": "Context does not warrant adding a protein family infobox."
+      },
+      {
+        "requirement_id": "R23",
+        "requirement_category": "Infoboxes",
+        "classification": "Flexible Guidelines",
+        "applicable": false,
+        "applicability_reasoning": "Only the Infobox GNF protein is applicable and it's missing.",
+        "reasoning": "No additional infoboxes are present to arrange in a table.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Single missing infobox does not require table formatting.",
+        "reasoning_detail": "Not applicable as only one infobox is relevant."
+      },
+      {
+        "requirement_id": "R24",
+        "requirement_category": "Infoboxes",
+        "classification": "Contextual Considerations",
+        "applicable": false,
+        "applicability_reasoning": "No tables of infoboxes are present.",
+        "reasoning": "Absence of multiple infoboxes negates the need for table formatting.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "No tables of infoboxes to evaluate.",
+        "reasoning_detail": "Not applicable as no tables are present."
+      },
+      {
+        "requirement_id": "R25",
+        "requirement_category": "Structure",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Must define the article's scope in the first sentence of the lead.",
+        "reasoning": "The first sentence clearly defines the scope of the article.",
+        "score": 1.0,
+        "confidence": 1.0,
+        "evidence": "First sentence establishes the gene and its protein.",
+        "reasoning_detail": "Fully meets the requirement."
+      },
+      {
+        "requirement_id": "R26",
+        "requirement_category": "Content",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "Applicable for genes/proteins with human orthologs.",
+        "reasoning": "The lead section uses the recommended UniProt name and HUGO gene symbol.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Uses ABCC11 as the HUGO gene symbol.",
+        "reasoning_detail": "Fully adheres to best practices."
+      },
+      {
+        "requirement_id": "R27",
+        "requirement_category": "Structure",
+        "classification": "Best Practices",
+        "applicable": false,
+        "applicability_reasoning": "No Gene section exists to repeat infobox information.",
+        "reasoning": "The article does not have a separate Gene section.",
+        "score": 1.0,
+        "confidence": 0.85,
+        "evidence": "No Gene section present to evaluate repetition.",
+        "reasoning_detail": "Not applicable as the Gene section is absent."
+      },
+      {
+        "requirement_id": "R28",
+        "requirement_category": "Structure",
+        "classification": "Best Practices",
+        "applicable": false,
+        "applicability_reasoning": "No Protein section exists to repeat infobox information.",
+        "reasoning": "The article does not have a separate Protein section.",
+        "score": 1.0,
+        "confidence": 0.85,
+        "evidence": "No Protein section present to evaluate repetition.",
+        "reasoning_detail": "Not applicable as the Protein section is absent."
+      },
+      {
+        "requirement_id": "R29",
+        "requirement_category": "Content",
+        "classification": "Flexible Guidelines",
+        "applicable": false,
+        "applicability_reasoning": "Optional section on species, tissue, and subcellular distribution is not present.",
+        "reasoning": "The article does not include a distribution section.",
+        "score": 1.0,
+        "confidence": 0.8,
+        "evidence": "Absence of species, tissue, and subcellular distribution details.",
+        "reasoning_detail": "Not applicable as the section is optional and not included."
+      },
+      {
+        "requirement_id": "R30",
+        "requirement_category": "Content",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Must describe the function of the transcribed protein.",
+        "reasoning": "The Function section comprehensively describes the protein's function.",
+        "score": 1.0,
+        "confidence": 1.0,
+        "evidence": "Detailed descriptions of the protein's roles and mechanisms are provided.",
+        "reasoning_detail": "Fully meets the requirement."
+      },
+      {
+        "requirement_id": "R31",
+        "requirement_category": "Content",
+        "classification": "Flexible Guidelines",
+        "applicable": false,
+        "applicability_reasoning": "No Interactions section exists to list protein interactions.",
+        "reasoning": "The article does not include an Interactions section.",
+        "score": 1.0,
+        "confidence": 0.85,
+        "evidence": "Absence of an Interactions section.",
+        "reasoning_detail": "Not applicable as the section is optional and not included."
+      },
+      {
+        "requirement_id": "R32",
+        "requirement_category": "Content",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Must list diseases or conditions related to gene/protein mutations or imbalances.",
+        "reasoning": "The article mentions breast cancer risk associated with gene mutations.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Breast cancer risk is discussed in relation to gene mutations.",
+        "reasoning_detail": "Fully meets the requirement."
+      },
+      {
+        "requirement_id": "R33",
+        "requirement_category": "Structure",
+        "classification": "Best Practices",
+        "applicable": false,
+        "applicability_reasoning": "No History/Discovery section exists to mention key discoveries.",
+        "reasoning": "The article does not include a History/Discovery section.",
+        "score": 1.0,
+        "confidence": 0.85,
+        "evidence": "Absence of a History/Discovery section.",
+        "reasoning_detail": "Not applicable as the section is optional and not included."
+      },
+      {
+        "requirement_id": "R34",
+        "requirement_category": "Structure",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Must link the article to a Wikidata item of the first mentioned entity in the lead.",
+        "reasoning": "No link to a Wikidata item is present in the article.",
+        "score": 0.0,
+        "confidence": 0.95,
+        "evidence": "No mention or link to a Wikidata item in the lead sentence.",
+        "reasoning_detail": "Does not meet the requirement."
+      }
+    ],
+    "meta_notes": "The article lacks information about orthologs in other species and does not link to a Wikidata item, which are required per the gene nomenclature guidelines and Wikidata linkage requirements. Additionally, an Infobox GNF protein is missing, which is imperative for articles about genes/proteins with human orthologs."
+  }
+}

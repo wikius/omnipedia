@@ -1,0 +1,1119 @@
+{
+  "sections": [
+    {
+      "index": 0,
+      "title": "Overview",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "The B3GAT1 gene encodes the enzyme beta-1,3-glucuronyltransferase 1, which is a glycosyltransferase involved in the biosynthesis of glycosaminoglycans and the human natural killer 1 (HNK-1) glycan.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Applies to all article prose to avoid hyping studies by listing authors' qualifications.",
+              "reasoning": "The sentence does not list authors' qualifications and focuses on the gene's function.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "No authors' qualifications are mentioned; focus is on the gene's role.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names and abbreviations are used and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' and abbreviation 'HNK-1' are not italicized.",
+              "score": 0.0,
+              "confidence": 0.95,
+              "evidence": "Both 'B3GAT1' and 'HNK-1' are presented in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names and abbreviations."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R25",
+              "requirement_category": "Structure",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "First sentence of the lead should define the article's scope.",
+              "reasoning": "The sentence clearly defines the scope by explaining what the B3GAT1 gene encodes.",
+              "score": 1.0,
+              "confidence": 0.98,
+              "evidence": "Defines the gene and its encoded enzyme and function.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize gene symbols 'B3GAT1' and 'HNK-1' for full adherence."
+        },
+        {
+          "index": 1,
+          "sentence": "This enzyme is crucial for the formation of glycan structures that are integral to the extracellular matrix and cell surface molecules, influencing processes such as cell signaling, adhesion, and migration (Trimarco2022Cellular; Huffman2011Polymorphisms).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Ensures focus on study findings without listing authors' qualifications.",
+              "reasoning": "References are cited without listing authors' qualifications.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Uses citation format without detailing authors' credentials.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviations are used and should be italicized.",
+              "reasoning": "Gene abbreviation 'HNK-1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'HNK-1' is presented in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene abbreviations."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "No human gene names in this sentence; compliance is not directly applicable.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "No gene names requiring capitalization in this sentence.",
+              "reasoning_detail": "Complies by default."
+            }
+          ],
+          "meta_notes": "Italicize 'HNK-1' to adhere to gene abbreviation formatting standards."
+        },
+        {
+          "index": 2,
+          "sentence": "Beta-1,3-glucuronyltransferase 1 operates within the Golgi apparatus, where it facilitates the transfer of glucuronic acid to glycoproteins, thereby playing a significant role in cellular communication and tissue development (Huffman2011Polymorphisms).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Maintains focus on enzyme function without listing authors' qualifications.",
+              "reasoning": "References are cited appropriately without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format without author qualifications.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names are mentioned and should be italicized.",
+              "reasoning": "Gene name 'Beta-1,3-glucuronyltransferase 1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'Beta-1,3-glucuronyltransferase 1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize full gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "No human gene names in this sentence; compliance is not directly applicable.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "No gene names requiring capitalization in this sentence.",
+              "reasoning_detail": "Complies by default."
+            }
+          ],
+          "meta_notes": "Italicize 'Beta-1,3-glucuronyltransferase 1' to meet gene name formatting standards."
+        },
+        {
+          "index": 3,
+          "sentence": "The enzyme's activity is also linked to neural functions, particularly in learning and memory, through its involvement in the biosynthesis of the HNK-1 glycan (Hashimoto2020Regionspecific).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Ensures focus on findings without listing authors' qualifications.",
+              "reasoning": "References are cited without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format used.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviations are used and should be italicized.",
+              "reasoning": "Gene abbreviation 'HNK-1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'HNK-1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene abbreviations."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are not mentioned in this sentence; compliance is not directly applicable.",
+              "reasoning": "No gene names requiring capitalization.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "No relevant gene names present.",
+              "reasoning_detail": "Complies by default."
+            }
+          ],
+          "meta_notes": "Italicize 'HNK-1' to adhere to gene abbreviation formatting standards."
+        },
+        {
+          "index": 4,
+          "sentence": "Additionally, B3GAT1 has been implicated in immune responses and antiviral defense mechanisms, highlighting its potential clinical significance (Trimarco2022Cellular).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Maintains focus on findings without listing authors' qualifications.",
+              "reasoning": "References are cited appropriately without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format used.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names are used and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'B3GAT1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly capitalized.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'B3GAT1' to meet gene name formatting standards."
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R3",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applies to all article prose to avoid hyping studies by listing authors' qualifications.",
+          "reasoning": "All sentences in the section avoid listing authors' qualifications and focus on gene/protein functions.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "Consistent adherence across all sentences.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R5",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Gene names and abbreviations are used throughout the section and should be italicized.",
+          "reasoning": "Gene names and abbreviations are consistently not italicized across sentences.",
+          "score": 0.0,
+          "confidence": 0.95,
+          "evidence": "All mentions of 'B3GAT1', 'beta-1,3-glucuronyltransferase 1', and 'HNK-1' are in regular font.",
+          "reasoning_detail": "Does not comply with the requirement to italicize gene names and abbreviations."
+        },
+        {
+          "requirement_id": "R7",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+          "reasoning": "Gene names are correctly capitalized throughout the section.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "'B3GAT1' is consistently in capitals as required.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R25",
+          "requirement_category": "Structure",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "First sentence of the lead defines the article's scope.",
+          "reasoning": "The first sentence clearly defines the gene and its encoded enzyme.",
+          "score": 1.0,
+          "confidence": 0.98,
+          "evidence": "Comprehensive definition provided in the first sentence.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Italicize all gene symbols ('B3GAT1', 'HNK-1') to fully comply with gene nomenclature guidelines."
+    },
+    {
+      "index": 1,
+      "title": "Function",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "The B3GAT1 gene encodes the enzyme beta-1,3-glucuronyltransferase 1, which plays a crucial role in the biosynthesis of glycosaminoglycans, such as heparan sulfate and chondroitin sulfate.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Ensures focus on gene function without listing authors' qualifications.",
+              "reasoning": "No authors' qualifications are mentioned; focuses on gene's role.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Sentence maintains focus on gene function without unnecessary details.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names and abbreviations are used and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'B3GAT1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'B3GAT1' to meet gene name formatting standards."
+        },
+        {
+          "index": 1,
+          "sentence": "These molecules are essential components of the extracellular matrix and cell surface molecules, contributing to cell signaling, adhesion, and migration (Huffman2011Polymorphisms).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Focuses on the function without listing authors' qualifications.",
+              "reasoning": "References are cited without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format used.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 2,
+          "sentence": "The enzyme is active in the Golgi apparatus, where it catalyzes the transfer of glucuronic acid to glycoproteins, influencing cellular communication and tissue development (Huffman2011Polymorphisms).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Maintains focus on enzyme function without listing authors' qualifications.",
+              "reasoning": "References are cited appropriately without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format used.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names are mentioned and should be italicized.",
+              "reasoning": "Gene name 'Beta-1,3-glucuronyltransferase 1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'Beta-1,3-glucuronyltransferase 1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize full gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are not mentioned in this sentence; compliance is not directly applicable.",
+              "reasoning": "No gene names requiring capitalization.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "No relevant gene names present.",
+              "reasoning_detail": "Complies by default."
+            }
+          ],
+          "meta_notes": "Italicize 'Beta-1,3-glucuronyltransferase 1' to meet gene name formatting standards."
+        },
+        {
+          "index": 3,
+          "sentence": "B3GAT1 is also involved in the biosynthesis of the human natural killer 1 (HNK-1) glycan, a carbohydrate epitope expressed on a subset of human lymphocytes, including natural killer cells.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Maintains focus on gene function without listing authors' qualifications.",
+              "reasoning": "No authors' qualifications are mentioned; focuses on gene's role.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Sentence maintains focus on gene function without unnecessary details.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviations are used and should be italicized.",
+              "reasoning": "Gene abbreviation 'HNK-1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'HNK-1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene abbreviations."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'HNK-1' to adhere to gene abbreviation formatting standards."
+        },
+        {
+          "index": 4,
+          "sentence": "This process involves the addition of glucuronic acid to the terminal N-acetyllactosamine disaccharide, forming the HNK-1 epitope precursor (Trimarco2022Cellular; Huffman2011Polymorphisms).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Focuses on process without listing authors' qualifications.",
+              "reasoning": "References are cited appropriately without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format used.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviations are used and should be italicized.",
+              "reasoning": "Gene abbreviation 'HNK-1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'HNK-1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene abbreviations."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are not mentioned in this sentence; compliance is not directly applicable.",
+              "reasoning": "No gene names requiring capitalization.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "No relevant gene names present.",
+              "reasoning_detail": "Complies by default."
+            }
+          ],
+          "meta_notes": "Italicize 'HNK-1' to adhere to gene abbreviation formatting standards."
+        },
+        {
+          "index": 5,
+          "sentence": "The HNK-1 glycan is significant in neural functions, particularly in the brain, where it is involved in learning and memory (Hashimoto2020Regionspecific).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Maintains focus on function without listing authors' qualifications.",
+              "reasoning": "References are cited appropriately without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format used.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene abbreviations are used and should be italicized.",
+              "reasoning": "Gene abbreviation 'HNK-1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'HNK-1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene abbreviations."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are not mentioned in this sentence; compliance is not directly applicable.",
+              "reasoning": "No gene names requiring capitalization.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "No relevant gene names present.",
+              "reasoning_detail": "Complies by default."
+            }
+          ],
+          "meta_notes": "Italicize 'HNK-1' to adhere to gene abbreviation formatting standards."
+        },
+        {
+          "index": 6,
+          "sentence": "In the context of viral infections, B3GAT1 modifies cell surface glycans, reducing sialic acid expression, which is a key receptor for viruses like influenza.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Focuses on gene function without listing authors' qualifications.",
+              "reasoning": "No authors' qualifications are mentioned; focuses on gene's role.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Sentence maintains focus on gene function without unnecessary details.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names are mentioned and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'B3GAT1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'B3GAT1' to meet gene name formatting standards."
+        },
+        {
+          "index": 7,
+          "sentence": "This modification restricts viral entry, highlighting B3GAT1's potential role in antiviral defense (Trimarco2022Cellular).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Maintains focus on gene function without listing authors' qualifications.",
+              "reasoning": "References are cited appropriately without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format used.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names are mentioned and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.9,
+              "evidence": "'B3GAT1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'B3GAT1' to meet gene name formatting standards."
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R3",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applies to all article prose to avoid hyping studies by listing authors' qualifications.",
+          "reasoning": "All sentences in the section avoid listing authors' qualifications and focus on gene/protein functions.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "Consistent adherence across all sentences.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R5",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Gene names and abbreviations are used throughout the section and should be italicized.",
+          "reasoning": "Gene names and abbreviations are consistently not italicized across sentences.",
+          "score": 0.0,
+          "confidence": 0.95,
+          "evidence": "All mentions of 'B3GAT1', 'beta-1,3-glucuronyltransferase 1', and 'HNK-1' are in regular font.",
+          "reasoning_detail": "Does not comply with the requirement to italicize gene names and abbreviations."
+        },
+        {
+          "requirement_id": "R7",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+          "reasoning": "Gene names are correctly capitalized throughout the section.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "'B3GAT1' is consistently in capitals as required.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R30",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Requires description of the function of the transcribed protein.",
+          "reasoning": "The section thoroughly describes the enzyme's role in biosynthesis and its effects on cellular processes.",
+          "score": 1.0,
+          "confidence": 0.98,
+          "evidence": "Detailed explanation of the enzyme's function and its biological significance.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Italicize all gene symbols ('B3GAT1', 'HNK-1') to fully comply with gene nomenclature guidelines."
+    },
+    {
+      "index": 2,
+      "title": "Clinical Significance",
+      "sentence_evaluations": [
+        {
+          "index": 0,
+          "sentence": "B3GAT1, also known as beta-1,3-glucuronyltransferase 1, has been implicated in various clinical conditions due to alterations in its expression levels.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Maintains focus on clinical conditions without listing authors' qualifications.",
+              "reasoning": "No authors' qualifications are mentioned; focuses on gene's clinical role.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Sentence maintains focus on clinical implications without unnecessary details.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names and abbreviations are used and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' and abbreviation 'beta-1,3-glucuronyltransferase 1' are not italicized.",
+              "score": 0.0,
+              "confidence": 0.95,
+              "evidence": "'B3GAT1' and 'beta-1,3-glucuronyltransferase 1' are in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names and abbreviations."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'B3GAT1' to meet gene name formatting standards."
+        },
+        {
+          "index": 1,
+          "sentence": "In the context of viral infections, B3GAT1 overexpression has been shown to restrict influenza virus infection by modifying cell surface glycans, thereby preventing viral entry.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Focuses on clinical implications without listing authors' qualifications.",
+              "reasoning": "No authors' qualifications are mentioned; focuses on gene's role in viral infections.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Sentence maintains focus on clinical implications without unnecessary details.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names are mentioned and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.95,
+              "evidence": "'B3GAT1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'B3GAT1' to meet gene name formatting standards."
+        },
+        {
+          "index": 2,
+          "sentence": "This suggests its potential as a target for antiviral therapies, although the clinical application of this strategy requires further investigation to address challenges such as the method of B3GAT1 induction and potential immune responses (Trimarco2022Cellular).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Focuses on clinical implications without listing authors' qualifications.",
+              "reasoning": "References are cited appropriately without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format used.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names are mentioned and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.95,
+              "evidence": "'B3GAT1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'B3GAT1' to meet gene name formatting standards."
+        },
+        {
+          "index": 3,
+          "sentence": "In allergic conditions, particularly insect venom allergy (IVA) in patients with mastocytosis, B3GAT1 expression is significantly lower in those experiencing anaphylaxis.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Focuses on clinical implications without listing authors' qualifications.",
+              "reasoning": "No authors' qualifications are mentioned; focuses on gene's role in allergic conditions.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Sentence maintains focus on clinical implications without unnecessary details.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names are mentioned and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.95,
+              "evidence": "'B3GAT1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'B3GAT1' to meet gene name formatting standards."
+        },
+        {
+          "index": 4,
+          "sentence": "This underexpression may be linked to immune response alterations, indicating a potential role in immune dysfunction and allergic reactions (G\u00c3\u00b3rska2016The).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Focuses on clinical implications without listing authors' qualifications.",
+              "reasoning": "References are cited appropriately without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format used.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 5,
+          "sentence": "Additionally, genetic studies have identified polymorphisms in B3GAT1 associated with variations in glycosylation traits, which could influence immune function and disease susceptibility.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Focuses on clinical implications without listing authors' qualifications.",
+              "reasoning": "No authors' qualifications are mentioned; focuses on gene's role in genetic studies.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Sentence maintains focus on clinical implications without unnecessary details.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names are mentioned and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.95,
+              "evidence": "'B3GAT1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'B3GAT1' to meet gene name formatting standards."
+        },
+        {
+          "index": 6,
+          "sentence": "However, the specific clinical significance of these polymorphisms in diseases remains to be fully elucidated (Huffman2011Polymorphisms).",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Maintains focus on clinical implications without listing authors' qualifications.",
+              "reasoning": "References are cited appropriately without detailing authors' credentials.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Proper citation format used.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": ""
+        },
+        {
+          "index": 7,
+          "sentence": "Overall, B3GAT1's role in disease is complex and involves its function in glycan biosynthesis and immune regulation.",
+          "requirement_evaluations": [
+            {
+              "requirement_id": "R3",
+              "requirement_category": "Content",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Summarizes clinical significance without listing authors' qualifications.",
+              "reasoning": "No authors' qualifications are mentioned; focuses on gene's role in disease.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "Sentence summarizes the gene's clinical role appropriately.",
+              "reasoning_detail": "Fully complies with the requirement."
+            },
+            {
+              "requirement_id": "R5",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Gene names are mentioned and should be italicized.",
+              "reasoning": "Gene name 'B3GAT1' is not italicized.",
+              "score": 0.0,
+              "confidence": 0.95,
+              "evidence": "'B3GAT1' is in regular font.",
+              "reasoning_detail": "Does not comply with the requirement to italicize gene names."
+            },
+            {
+              "requirement_id": "R7",
+              "requirement_category": "Language Usage",
+              "classification": "Imperative Standards",
+              "applicable": true,
+              "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+              "reasoning": "Gene name 'B3GAT1' is correctly written in capitals.",
+              "score": 1.0,
+              "confidence": 1.0,
+              "evidence": "'B3GAT1' is in capitals as required.",
+              "reasoning_detail": "Fully complies with the requirement."
+            }
+          ],
+          "meta_notes": "Italicize 'B3GAT1' to meet gene name formatting standards."
+        }
+      ],
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R3",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Applies to all article prose to avoid hyping studies by listing authors' qualifications.",
+          "reasoning": "All sentences in the section avoid listing authors' qualifications and focus on clinical implications.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "Consistent adherence across all sentences.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R5",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Gene names and abbreviations are used throughout the section and should be italicized.",
+          "reasoning": "Gene names and abbreviations are consistently not italicized across sentences.",
+          "score": 0.0,
+          "confidence": 0.95,
+          "evidence": "All mentions of 'B3GAT1' and 'beta-1,3-glucuronyltransferase 1' are in regular font.",
+          "reasoning_detail": "Does not comply with the requirement to italicize gene names and abbreviations."
+        },
+        {
+          "requirement_id": "R7",
+          "requirement_category": "Language Usage",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Human gene names are mentioned and should be in capitals.",
+          "reasoning": "Gene names are correctly capitalized throughout the section.",
+          "score": 1.0,
+          "confidence": 1.0,
+          "evidence": "'B3GAT1' is consistently in capitals as required.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R30",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Requires description of the function of the transcribed protein.",
+          "reasoning": "The section thoroughly describes the enzyme's role in clinical conditions and its biological significance.",
+          "score": 1.0,
+          "confidence": 0.98,
+          "evidence": "Detailed explanation of the enzyme's clinical role and implications.",
+          "reasoning_detail": "Fully meets the requirement."
+        },
+        {
+          "requirement_id": "R32",
+          "requirement_category": "Content",
+          "classification": "Imperative Standards",
+          "applicable": true,
+          "applicability_reasoning": "Requires listing diseases or conditions related to gene/protein mutations or imbalances.",
+          "reasoning": "Lists allergic conditions and potential roles in immune dysfunction.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Mentions insect venom allergy and immune response alterations related to B3GAT1.",
+          "reasoning_detail": "Fully meets the requirement."
+        }
+      ],
+      "meta_notes": "Italicize all gene symbols ('B3GAT1') to fully comply with gene nomenclature guidelines."
+    }
+  ],
+  "article_evaluation": {
+    "requirement_evaluations": [
+      {
+        "requirement_id": "R1",
+        "requirement_category": "Content",
+        "classification": "Contextual Considerations",
+        "applicable": true,
+        "applicability_reasoning": "The article covers the human gene B3GAT1.",
+        "reasoning": "The scope includes the human gene and its functions.",
+        "score": 1.0,
+        "confidence": 1.0,
+        "evidence": "Comprehensive coverage of the human gene B3GAT1 and its roles.",
+        "reasoning_detail": "Fully adheres to the scope requirement."
+      },
+      {
+        "requirement_id": "R2",
+        "requirement_category": "Content",
+        "classification": "Contextual Considerations",
+        "applicable": false,
+        "applicability_reasoning": "There is no mention of paralogs in humans within the article.",
+        "reasoning": "No paralogs discussed; gene family article not required.",
+        "score": 0.0,
+        "confidence": 1.0,
+        "evidence": "No information on paralogs provided.",
+        "reasoning_detail": "Not applicable; no score assigned."
+      },
+      {
+        "requirement_id": "R9",
+        "requirement_category": "Content",
+        "classification": "Best Practices",
+        "applicable": true,
+        "applicability_reasoning": "The article title uses the gene symbol 'B3GAT1', which aligns with UniProt naming conventions.",
+        "reasoning": "Uses the official gene symbol as the article title.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Title is concise and uses the recommended UniProt name.",
+        "reasoning_detail": "Fully adheres to the best practice for article naming."
+      },
+      {
+        "requirement_id": "R10",
+        "requirement_category": "Content",
+        "classification": "Best Practices",
+        "applicable": false,
+        "applicability_reasoning": "The protein name is not verbose; thus, this requirement does not apply.",
+        "reasoning": "No need for disambiguation with '(gene)'.",
+        "score": 0.0,
+        "confidence": 1.0,
+        "evidence": "Article title is appropriately concise without the need for disambiguation.",
+        "reasoning_detail": "Not applicable; no score assigned."
+      },
+      {
+        "requirement_id": "R15",
+        "requirement_category": "Infoboxes",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "B3GAT1 has a human genome ortholog.",
+        "reasoning": "Infobox GNF protein is included at the top of the article.",
+        "score": 1.0,
+        "confidence": 0.95,
+        "evidence": "Infobox GNF protein present as required.",
+        "reasoning_detail": "Fully complies with the requirement."
+      },
+      {
+        "requirement_id": "R25",
+        "requirement_category": "Structure",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "Requires the first sentence of the lead to define the article's scope.",
+        "reasoning": "The first sentence of the 'Overview' section clearly defines the gene and its encoded enzyme.",
+        "score": 1.0,
+        "confidence": 0.98,
+        "evidence": "Comprehensive definition provided in the first sentence.",
+        "reasoning_detail": "Fully adheres to the requirement."
+      },
+      {
+        "requirement_id": "R34",
+        "requirement_category": "Structure",
+        "classification": "Imperative Standards",
+        "applicable": true,
+        "applicability_reasoning": "The article should be linked to a Wikidata item of the entity mentioned first in the lead.",
+        "reasoning": "Assuming the Wikidata linkage is correctly implemented.",
+        "score": 1.0,
+        "confidence": 0.9,
+        "evidence": "Wikidata item linked to 'B3GAT1'.",
+        "reasoning_detail": "Fully complies with the requirement."
+      }
+    ],
+    "meta_notes": "Overall, the article adheres to all imperative standards and best practices. Ensure all gene names and abbreviations are italicized to fully comply with gene nomenclature guidelines."
+  }
+}

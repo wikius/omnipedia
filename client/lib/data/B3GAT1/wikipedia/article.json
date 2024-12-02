@@ -1,0 +1,48 @@
+[
+  {
+    "title": "B3GAT1",
+    "content": "",
+    "level": 1,
+    "index": 1,
+    "sentences": []
+  },
+  {
+    "title": "Lead",
+    "content": "**3-beta-glucuronosyltransferase 1** (B3GAT1) is an [enzyme](https://en.wikipedia.org/wiki/Enzyme) that in humans is encoded by the *B3GAT1* [gene](https://en.wikipedia.org/wiki/Gene), whose enzymatic activity creates the CD57 [epitope](https://en.wikipedia.org/wiki/Epitope) on other cell surface proteins. In [immunology](https://en.wikipedia.org/wiki/Immunology), the CD57 [antigen](https://en.wikipedia.org/wiki/Antigen) (CD stands for [cluster of differentiation](https://en.wikipedia.org/wiki/Cluster_of_differentiation)) is also known as HNK1 (human natural killer-1) or LEU7. It is expressed as a carbohydrate [epitope](https://en.wikipedia.org/wiki/Epitope) that contains a sulfoglucuronyl residue in several [adhesion molecules](https://en.wikipedia.org/wiki/Cell_adhesion_molecule) of the [nervous system](https://en.wikipedia.org/wiki/Nervous_system).",
+    "level": 2,
+    "index": 2,
+    "sentences": [
+      "**3-beta-glucuronosyltransferase 1** (B3GAT1) is an [enzyme](https://en.wikipedia.org/wiki/Enzyme) that in humans is encoded by the *B3GAT1* [gene](https://en.wikipedia.org/wiki/Gene), whose enzymatic activity creates the CD57 [epitope](https://en.wikipedia.org/wiki/Epitope) on other cell surface proteins.",
+      "In [immunology](https://en.wikipedia.org/wiki/Immunology), the CD57 [antigen](https://en.wikipedia.org/wiki/Antigen) (CD stands for [cluster of differentiation](https://en.wikipedia.org/wiki/Cluster_of_differentiation)) is also known as HNK1 (human natural killer-1) or LEU7.",
+      "It is expressed as a carbohydrate [epitope](https://en.wikipedia.org/wiki/Epitope) that contains a sulfoglucuronyl residue in several [adhesion molecules](https://en.wikipedia.org/wiki/Cell_adhesion_molecule) of the [nervous system](https://en.wikipedia.org/wiki/Nervous_system)."
+    ]
+  },
+  {
+    "title": "Function",
+    "content": "The protein encoded by this gene is a member of the glucuronyltransferase gene family. These enzymes exhibit strict acceptor specificity, recognizing nonreducing terminal sugars and their anomeric linkages. This gene product functions as the key enzyme in a glucuronyl transfer reaction during the biosynthesis of the carbohydrate epitope HNK-1 (human natural killer-1, also known as CD57 and LEU7). Alternate transcriptional splice variants have been characterized.",
+    "level": 2,
+    "index": 3,
+    "sentences": [
+      "The protein encoded by this gene is a member of the glucuronyltransferase gene family.",
+      "These enzymes exhibit strict acceptor specificity, recognizing nonreducing terminal sugars and their anomeric linkages.",
+      "This gene product functions as the key enzyme in a glucuronyl transfer reaction during the biosynthesis of the carbohydrate epitope HNK-1 (human natural killer-1, also known as CD57 and LEU7).",
+      "Alternate transcriptional splice variants have been characterized."
+    ]
+  },
+  {
+    "title": "Immunohistochemistry",
+    "content": "In anatomical pathology, CD57 (immunostaining) is similar to CD56 for use in differentiating [neuroendocrine tumors](https://en.wikipedia.org/wiki/Neuroendocrine_tumor) from others. Using [immunohistochemistry](https://en.wikipedia.org/wiki/Immunohistochemistry), CD57 molecules can be demonstrated in around 10 to 20% of [lymphocytes](https://en.wikipedia.org/wiki/Lymphocyte), as well as in some [epithelial](https://en.wikipedia.org/wiki/Epithelium), neural, and [chromaffin cells](https://en.wikipedia.org/wiki/Chromaffin_cell). Among [lymphocytes](https://en.wikipedia.org/wiki/Lymphocyte), CD57 positive cells are typically either [T cells](https://en.wikipedia.org/wiki/T_cell) or [NK cells](https://en.wikipedia.org/wiki/Natural_killer_cell), and are most commonly found within the [germinal centers](https://en.wikipedia.org/wiki/Germinal_center) of [lymph nodes](https://en.wikipedia.org/wiki/Lymph_node), tonsils, and the spleen.\n\nThere is an increase in the number of circulating CD57 positive cells in the blood of patients who have recently undergone organ or tissue transplants, especially of the bone marrow, and in patients with [HIV](https://en.wikipedia.org/wiki/HIV). Increased CD57+ counts have also been reported in [rheumatoid arthritis](https://en.wikipedia.org/wiki/Rheumatoid_arthritis) and [Felty's syndrome](https://en.wikipedia.org/wiki/Felty%27s_syndrome), among other conditions. High levels of CD57 expression amongst circulating CD8+ T cells is associated with other markers of immune ageing (immunosenescence) and may be associated with increased cancer risk in renal transplant recipients.\n\n[Neoplastic](https://en.wikipedia.org/wiki/Neoplasm) CD57 positive cells are seen in conditions as varied as [large granular lymphocytic leukemia](https://en.wikipedia.org/wiki/Large_granular_lymphocytic_leukemia), [small-cell carcinoma](https://en.wikipedia.org/wiki/Small-cell_carcinoma), [thyroid carcinoma](https://en.wikipedia.org/wiki/Thyroid_neoplasm), and neural and [carcinoid](https://en.wikipedia.org/wiki/Carcinoid_tumor) tumors. Although the antigen is particularly common in carcinoid tumors, it is found in such a wide range of other conditions that it is of less use in distinguishing these tumors from others than more specific markers such as [chromogranin](https://en.wikipedia.org/wiki/Chromogranin) and [neuron-specific enolase (NSE)](https://en.wikipedia.org/wiki/Neuron_specific_enolase).",
+    "level": 2,
+    "index": 4,
+    "sentences": [
+      "In anatomical pathology, CD57 (immunostaining) is similar to CD56 for use in differentiating [neuroendocrine tumors](https://en.wikipedia.org/wiki/Neuroendocrine_tumor) from others.",
+      "Using [immunohistochemistry](https://en.wikipedia.org/wiki/Immunohistochemistry), CD57 molecules can be demonstrated in around 10 to 20% of [lymphocytes](https://en.wikipedia.org/wiki/Lymphocyte), as well as in some [epithelial](https://en.wikipedia.org/wiki/Epithelium), neural, and [chromaffin cells](https://en.wikipedia.org/wiki/Chromaffin_cell).",
+      "Among [lymphocytes](https://en.wikipedia.org/wiki/Lymphocyte), CD57 positive cells are typically either [T cells](https://en.wikipedia.org/wiki/T_cell) or [NK cells](https://en.wikipedia.org/wiki/Natural_killer_cell), and are most commonly found within the [germinal centers](https://en.wikipedia.org/wiki/Germinal_center) of [lymph nodes](https://en.wikipedia.org/wiki/Lymph_node), tonsils, and the spleen.",
+      "There is an increase in the number of circulating CD57 positive cells in the blood of patients who have recently undergone organ or tissue transplants, especially of the bone marrow, and in patients with [HIV](https://en.wikipedia.org/wiki/HIV).",
+      "Increased CD57+ counts have also been reported in [rheumatoid arthritis](https://en.wikipedia.org/wiki/Rheumatoid_arthritis) and [Felty's syndrome](https://en.wikipedia.org/wiki/Felty%27s_syndrome), among other conditions.",
+      "High levels of CD57 expression amongst circulating CD8+ T cells is associated with other markers of immune ageing (immunosenescence) and may be associated with increased cancer risk in renal transplant recipients.",
+      "[Neoplastic](https://en.wikipedia.org/wiki/Neoplasm) CD57 positive cells are seen in conditions as varied as [large granular lymphocytic leukemia](https://en.wikipedia.org/wiki/Large_granular_lymphocytic_leukemia), [small-cell carcinoma](https://en.wikipedia.org/wiki/Small-cell_carcinoma), [thyroid carcinoma](https://en.wikipedia.org/wiki/Thyroid_neoplasm), and neural and [carcinoid](https://en.wikipedia.org/wiki/Carcinoid_tumor) tumors.",
+      "Although the antigen is particularly common in carcinoid tumors, it is found in such a wide range of other conditions that it is of less use in distinguishing these tumors from others than more specific markers such as [chromogranin](https://en.wikipedia.org/wiki/Chromogranin) and [neuron-specific enolase (NSE)](https://en.wikipedia.org/wiki/Neuron_specific_enolase)."
+    ]
+  }
+]
