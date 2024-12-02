@@ -358,8 +358,8 @@ const EmptyState = ({ searchTerm }: { searchTerm: string }) => (
     </h3>
     {searchTerm ? (
       <p className="text-gray-500">
-        No requirements match your search "{searchTerm}". Try adjusting your
-        search terms.
+        No requirements match your search &quot;{searchTerm}&quot;. Try
+        adjusting your search terms.
       </p>
     ) : (
       <p className="text-gray-500">
