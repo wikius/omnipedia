@@ -6,14 +6,9 @@ import {
 } from "@/lib/eval";
 
 const stripMarkdown = (text: string): string => {
-  // Remove bold/italic markers
   text = text.replace(/\*\*([^*]+)\*\*/g, "$1");
   text = text.replace(/\*([^*]+)\*/g, "$1");
-
-  // Remove links - extract just the text part
   text = text.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
-
-  // Remove bullet points and replace with plain text
   text = text.replace(/^[\s]*[-*+][\s]+/gm, "• ");
 
   return text.trim();
