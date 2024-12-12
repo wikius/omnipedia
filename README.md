@@ -5,9 +5,10 @@
 
 ## Overview
 
-**Omnipedia** is a system and toolchain that streamlines the evaluation of articles against style guides using advanced language models (LMs). This system enhances the speed and consistency of article reviews, alleviating bottlenecks caused by manual evaluations.
+**Omnipedia** is a system and toolchain that streamlines the evaluation of articles against style guides using advanced language models (LMs). 
+This system enhances the speed and consistency of article reviews, alleviating bottlenecks caused by manual evaluations.
 
-The core system converts style guides into actionable requirements, maps these requirements to articles, and provides detailed, contextual evaluations. Omnipedia visually overlays these evaluations on articles to highlight compliance and areas for improvement.
+The core system includes a `stylist` that style guides into actionable requirements, each associated with a location within articles and an importance level; an `articulator` that breaks articles into chunks that specify their location; and an `evaluator` that applies the requirements to articles, and provides contextual evaluations. It has an `overlay` client that visually overlays these evaluations on articles, to highlight compliance and areas for improvement.
 
 [EMNLP Poster](https://docs.google.com/presentation/d/1x3W1neLj9Zw4RaEDJCWVgQholuZdPWKLLpuYYXqRkPg)
 
@@ -52,7 +53,7 @@ Omnipedia aims to:
 
 ---
 
-## Planned Enhancements (Q4 2023)
+## Planned Enhancements (Q4 2024)
 
 - Native WikiEditor Integration
 - Expansion to 1000+ style requirements
